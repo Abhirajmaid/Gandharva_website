@@ -1,0 +1,67 @@
+.contacts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    row-gap: 100px;
+    justify-content: space-between;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    width: 290px;
+    height: 400px;
+    position: relative;
+    border-radius: 7px;
+    overflow: hidden;
+    box-shadow: 10px 10px rgb(70, 3, 56);
+
+}
+
+.contact .overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0));
+}
+
+.contact img {
+    border-radius: 7px;
+    height: 100%;
+    width: 100%;
+}
+
+.info {
+    position: absolute;
+    width: 90%;
+    bottom: 0;
+    display: flex;
+    padding: 10px 13px;
+    justify-content: space-between;
+}
+
+.cont_socials {
+    display: flex;
+    align-items: center;
+    color: white;
+    gap: 15px;
+}
+
+.cont_social {
+    color: white;
+    width: 24px;
+    height: 24px;
+}
+
+.cont_name {
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.title {
+    letter-spacing: 1px;
+    margin-top: 80px;
+    margin-bottom: 70px;
+    text-transform: uppercase;
+    text-align: center;
+}

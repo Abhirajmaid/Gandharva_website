@@ -1,0 +1,38 @@
+.footer {
+    padding: 30px 50px;
+    margin-top: 150px;
+    background-color: #1D1D1D;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.copy_txt {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    font-size: 14px;
+}
+
+.copy_txt span {
+    letter-spacing: 0.8px;
+}
+
+.copyright_txt {
+    color: gray;
+}
+
+.socials {
+    display: flex;
+    width: 25%;
+    justify-content: space-between;
+}
+
+.social {
+    width: 40px;
+    height: 40px;
+    color: white;
+}

@@ -1,0 +1,29 @@
+.timer {
+    display: flex;
+    gap: 30px;
+}
+
+.days,
+.hours,
+.minutes {
+    text-align: center;
+    height: 80px;
+    width: 80px;
+    /* background-color: white; */
+    /* color: black; */
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.dnum,
+.hnum,
+.mnum {
+    font-size: 30px;
+}
+
+/* .timer p {
+    margin: 2px;
+} */

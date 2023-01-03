@@ -1,0 +1,46 @@
+.hero {
+    margin-top: 50px;
+}
+
+.hero_content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+.hero_txt {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 55px;
+    letter-spacing: 1.5px;
+}
+
+.slogan {
+    font-size: 22px;
+    font-weight: 300;
+}
+
+.timing {
+    font-size: 27px;
+    font-weight: 400;
+
+}
+
+.register_btn button {
+    background-color: black;
+    color: white;
+    padding: 10px 25px;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
+.register_btn button:hover {
+    background-color: rgb(255, 0, 13);
+    cursor: pointer;
+
+}

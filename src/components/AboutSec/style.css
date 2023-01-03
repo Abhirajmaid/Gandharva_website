@@ -1,0 +1,55 @@
+.about {
+    display: flex;
+    color: white;
+    gap: 40px;
+    margin-top: 150px;
+}
+
+.aboutImg {
+    width: 100%;
+    max-height: 350px;
+    object-fit: cover;
+    border-radius: 10px;
+
+}
+
+.leftAbout,
+.rightAbout {
+    flex: 2;
+}
+
+.rightAbout {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+
+.aboutTitle {
+    font-size: 32px;
+    font-weight: bold;
+    letter-spacing: 1.3px;
+}
+
+.aboutContent {
+    font-size: 17px;
+    font-weight: 300;
+}
+
+.aboutReadMore {
+    font-size: 17px;
+    border-radius: 5px;
+    background-color: rgba(255, 0, 13, 1);
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    letter-spacing: 1.5px;
+    margin-top: 5px;
+}
+
+.aboutReadMore:hover {
+    background-color: black;
+    border: 1px solid red;
+    box-shadow: 0px 0px 10px rgb(255, 0, 0);
+    cursor: pointer;
+}

@@ -1,25 +1,79 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
 
-function App() {
+import {
+  createBrowserRouter,
+  RouterProvider,
+  Route,
+  Outlet,
+} from "react-router-dom";
+
+import "./App.css";
+
+import Home from "./pages/Home/Home";
+import Event from "./pages/EventPage/Event";
+import Faq from "./pages/FaqPage/Faq";
+import Contact from "./pages/Contact/Contact";
+import About from "./pages/About/About";
+import Register from "./pages/Register/Register";
+import SponsorForm from "./pages/SponsorForm/SponsorForm";
+import Footer from "./components/Footer/Footer";
+import Navbar from "./components/Navbar/Navbar";
+
+const Layout = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <>
+      <Navbar />
+      <Outlet />
+      <Footer />
+    </>
+  );
+};
+
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <Layout />,
+    children: [
+      {
+        path: "/",
+        element: <Home />,
+      },
+      {
+        path: "/events",
+        element: <Event />,
+      },
+      {
+        path: "/contact",
+        element: <Contact />,
+      },
+      {
+        path: "/about",
+        element: <About />,
+      },
+      {
+        path: "/faq",
+        element: <Faq />,
+      },
+    ],
+  },
+  {
+    path: "/register",
+    element: <Register />,
+  },
+  {
+    path: "/sponsor_us",
+    element: <SponsorForm />,
+  },
+]);
+
+const App = () => {
+  return (
+    <div className="app">
+      <div className="container">
+        <RouterProvider router={router} />
+      </div>
     </div>
   );
-}
+};
 
 export default App;

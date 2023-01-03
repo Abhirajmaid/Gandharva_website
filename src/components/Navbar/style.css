@@ -1,0 +1,49 @@
+.nav {
+    padding: 20px 70px;
+}
+
+.nav_container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo img {
+    width: 80px;
+    height: 80px;
+    transform: scale(1.8);
+    margin-bottom: -10px;
+}
+
+.link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.links {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.links h6 {
+    font-size: 18px;
+    font-weight: 600;
+
+}
+
+.contact_btn button {
+    padding: 10px 15px;
+    background-color: white;
+    color: #151515;
+    border-radius: 5px;
+    border: 1px solid black;
+    letter-spacing: 1.5px;
+    transition: 0.3s ease-in-out;
+}
+
+.contact_btn button:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
