@@ -1,7 +1,7 @@
 import React from "react";
 import { Icon } from "@iconify/react";
 import Gradient from "../../components/Gradient/Gradient";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import "./style.css";
 const contacts = [
   {
