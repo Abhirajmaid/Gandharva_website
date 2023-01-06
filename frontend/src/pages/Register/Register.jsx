@@ -76,7 +76,7 @@ const Register = () => {
             accept="image/*"
           />
           <button>Register</button>
-          <p>This is an error!</p>
+          {message && <p>This is an error!</p>}
         </form>
       </div>
     </>
