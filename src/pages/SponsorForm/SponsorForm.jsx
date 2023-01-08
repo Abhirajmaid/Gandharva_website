@@ -1,8 +1,28 @@
-import React from "react";
+import React, { useState } from "react";
 import Gradient from "../../components/Gradient/Gradient";
 import "./style.css";
+import axios from 'axios';
 
 const SponsorForm = () => {
+  const [sponser,setUser] = useState({
+    comname:"",comemail:"",comphone:"",message:""
+});
+let name, value;
+const handleInputs = (e) =>{
+    name = e.target.name;
+    value = e.target.value;
+
+    setUser({...sponser, [name]:value});
+}
+const sponserdata = async() =>{
+
+  try {
+    const res = axios.post("http://localhost:4080/sponsers", sponser);
+    console.log(res.data);
+  }catch(err){ console.log(err);
+  }
+  
+}
   return (
     <>
       <Gradient
@@ -14,15 +34,16 @@ const SponsorForm = () => {
       <div className="auth">
         <h1>Sponsor Form</h1>
         <form>
-          <input required type="text" placeholder="Company Name" />
-          <input required type="email" placeholder="Company Email" />
-          <input required type="number" placeholder="Contact no. (whatsapp)" />
+          <input required type="text" placeholder="Company Name" name="comname" value={sponser.comname} onChange={handleInputs} />
+          <input required type="email" placeholder="Company Email" name="comemail" value={sponser.comemail} onChange={handleInputs} />
+          <input required type="number" placeholder="Contact no. (whatsapp)" name="comphone" value={sponser.comphone} onChange={handleInputs} />
           <input
             required
             type="text"
-            placeholder="Why are you willing to Sponsor us"
+            placeholder="Why are you willing to Sponsor us" 
+            name="message" value={sponser.message} onChange={handleInputs} 
           />
-          <button style={{ backgroundColor: "rgba(255,0,13,1)" }}>
+          <button onClick={sponserdata} style={{ backgroundColor: "rgba(255,0,13,1)" }}>
             Submit
           </button>
           <p>This is an error!</p>

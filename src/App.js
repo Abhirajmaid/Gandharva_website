@@ -18,6 +18,8 @@ import Register from "./pages/Register/Register";
 import SponsorForm from "./pages/SponsorForm/SponsorForm";
 import Footer from "./components/Footer/Footer";
 import Navbar from "./components/Navbar/Navbar";
+import AdminPage from "./pages/Admin/AdminPage";
+
 
 const Layout = () => {
   return (
@@ -64,6 +66,11 @@ const router = createBrowserRouter([
     path: "/sponsor_us",
     element: <SponsorForm />,
   },
+  {
+    path: "/9322",
+    element: <AdminPage />,
+  },
+  
 ]);
 
 const App = () => {
