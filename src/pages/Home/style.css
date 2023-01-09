@@ -1,3 +1,19 @@
 .page_container {
     padding: 0 50px;
 }
+
+.sec_container {
+    display: flex;
+    flex-direction: column;
+    gap: 130px;
+}
+
+@media screen and (max-width: 480px) {
+    .page_container {
+        padding: 0 20px;
+    }
+
+    .sec_container {
+        gap: 80px;
+    }
+}

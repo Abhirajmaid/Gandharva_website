@@ -10,10 +10,11 @@
 }
 
 .logo img {
-    width: 80px;
+    width: 90px;
     height: 80px;
     transform: scale(1.8);
     margin-bottom: -10px;
+
 }
 
 .link {
@@ -24,13 +25,12 @@
 .links {
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 25px;
 }
 
 .links h6 {
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 600;
-
 }
 
 .contact_btn button {
@@ -39,11 +39,36 @@
     color: #151515;
     border-radius: 5px;
     border: 1px solid black;
+    border: none;
     letter-spacing: 1.5px;
     transition: 0.3s ease-in-out;
+    font-size: 14px;
+    font-weight: bold;
 }
 
 .contact_btn button:hover {
     cursor: pointer;
     transform: scale(1.1);
+}
+
+@media screen and (max-width:480px) {
+
+    .nav_container {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .contact_btn button {
+        padding: 7px 10px;
+        letter-spacing: 0.5px;
+    }
+
+    .nav {
+        padding: 10px 5px;
+    }
+
+    .links h6 {
+        font-size: 15px;
+    }
+
 }

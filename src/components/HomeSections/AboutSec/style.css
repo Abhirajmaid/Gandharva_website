@@ -53,3 +53,35 @@
     box-shadow: 0px 0px 10px rgb(255, 0, 0);
     cursor: pointer;
 }
+
+@media screen and (max-width: 480px) {
+    .about {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .aboutImg {
+        max-height: 250px;
+        width: 95%;
+    }
+
+    .aboutImg img {
+        margin: auto;
+    }
+
+    .aboutTitle {
+        font-size: 25px;
+    }
+
+    .aboutContent {
+        font-size: 12px;
+        width: 95%;
+        text-align: justify;
+    }
+
+    .aboutReadMore {
+        font-size: 14px;
+        padding: 8px 15px;
+        letter-spacing: 1px;
+    }
+}

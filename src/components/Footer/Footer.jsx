@@ -27,9 +27,9 @@ function Footer() {
         <div className="copyright_txt">
           Copyright ©️2023. Gandharva. All Rights Reserved.
         </div>
-        <span>
+        <a href="https://webfudge.in" target="_blank" rel="noreferrer">
           Design by <b>Webfudge</b>
-        </span>
+        </a>
       </div>
     </div>
   );

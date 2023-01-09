@@ -33,9 +33,12 @@
     box-shadow: 0px 5px 30px 10px rgba(0, 0, 0, 0.45);
     color: white;
     cursor: pointer;
-    transition: all 1s ease-in-out;
+    transition: all 0.3s ease-in-out;
 }
 
+.event:hover {
+    transform: scale(1.1);
+}
 
 .event .event_overlay {
     transition: all 1s ease;
@@ -46,7 +49,8 @@
 }
 
 .event:hover .event_overlay {
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.6) 40%, rgba(0, 0, 0, 0));
+    background: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4) 60%, rgba(0, 0, 0, 0));
+    transform: scale(1.1);
 }
 
 .event img {
@@ -69,6 +73,7 @@
     font-size: 22px;
     letter-spacing: 1px;
     font-weight: 700;
+    line-height: 27px;
 }
 
 .date {
@@ -104,4 +109,41 @@
     background-color: #0463F1;
     box-shadow: 7px 7px #00337E;
     transform: scale(1.1);
+}
+
+@media screen and (max-width:480px) {
+    .event_container {
+        flex-direction: column;
+    }
+
+    .event_col {
+        width: 100%;
+    }
+
+    .events {
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .dept_col {
+        width: 100%;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .event {
+        width: auto;
+        max-width: 280px;
+        height: auto;
+    }
+
+
+    .dept {
+        width: 45%;
+        padding: 10px;
+        font-size: 12px;
+    }
+
 }

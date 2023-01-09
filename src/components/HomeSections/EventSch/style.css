@@ -1,0 +1,96 @@
+.eventsSc {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.eStitle {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.eBtns {
+    display: flex;
+    gap: 40px;
+}
+
+.day {
+    width: 100px;
+    box-shadow: 5px 5px 0 0 #610000;
+    background-color: rgb(186, 5, 5);
+    border: none;
+    border-radius: 0px;
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+    transition: all .3s ease-in-out;
+    cursor: pointer;
+}
+
+.day:hover {
+    transform: scale(1.1);
+    background-color: red;
+}
+
+.dayImg {
+    max-width: 80%;
+    height: auto;
+}
+
+.eImage {
+    text-align: center;
+}
+
+.eRegisterBtn {
+    width: 200px;
+    color: white;
+    background-color: red;
+    font-size: 18px;
+    border: none;
+    padding: 12px;
+    border-radius: 5px;
+    font-weight: 600;
+
+}
+
+.eRegisterBtn:hover {
+    background-color: black;
+    box-shadow: 0px 0px 10px rgb(255, 0, 0);
+    cursor: pointer;
+}
+
+@media screen and (max-width:480px) {
+    .eventsSc {
+        gap: 20px;
+    }
+
+    .dayImg {
+        max-width: 100%;
+    }
+
+    .eStitle {
+        font-size: 24px;
+    }
+
+    .eRegisterBtn {
+        width: 120px;
+        font-size: 13px;
+        padding: 8px;
+    }
+
+    .day {
+        width: 54px;
+        font-size: 11px;
+        box-shadow: 2px 2px 0 0 #610000;
+    }
+
+    .eBtns {
+        flex-wrap: wrap;
+        gap: 15px;
+        align-items: center;
+        justify-content: center;
+    }
+}

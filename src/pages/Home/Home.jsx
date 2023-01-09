@@ -2,7 +2,10 @@ import React from "react";
 import Gradient from "../../components/Gradient/Gradient";
 import "./style.css";
 import Hero from "../../components/Hero/Hero";
-import About from "../../components/AboutSec/AboutSec";
+import About from "../../components/HomeSections/AboutSec/AboutSec";
+import Participate from "../../components/HomeSections/Participate/Participate";
+import Sponsors from "../../components/HomeSections/Sponsors/Sponsors";
+import EventSch from "../../components/HomeSections/EventSch/EventSch";
 
 const Home = () => {
   return (
@@ -15,8 +18,19 @@ const Home = () => {
           }}
         />
         <Hero />
-        <div className="about_sec">
-          <About />
+        <div className="sec_container">
+          <div className="about_sec">
+            <About />
+          </div>
+          <div className="participate_sec">
+            <Participate />
+          </div>
+          <div className="event_sch">
+            <EventSch />
+          </div>
+          <div className="sponsor_sec">
+            <Sponsors />
+          </div>
         </div>
       </div>
     </>

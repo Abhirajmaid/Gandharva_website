@@ -2,45 +2,8 @@ import React from "react";
 import { Icon } from "@iconify/react";
 import Gradient from "../../components/Gradient/Gradient";
 // import { Link } from "react-router-dom";
+import ContactData from "../../Data/ContactData";
 import "./style.css";
-const contacts = [
-  {
-    id: "1",
-    Name: "Abhiraj Maid",
-    Profile:
-      "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    Insta: "https://instagram.com/abhirajmaid",
-    Email: "abhirajmaid050@gmail.com",
-    Whatsapp: "https://wa.me/917385302967",
-  },
-  {
-    id: "3",
-    Name: "Abhiraj Maid",
-    Profile:
-      "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    Insta: "https://instagram.com/abhirajmaid",
-    Email: "abhirajmaid050@gmail.com",
-    Whatsapp: "https://wa.me/917385302967",
-  },
-  {
-    id: "2",
-    Name: "Abhiraj Maid",
-    Profile:
-      "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    Insta: "https://instagram.com/abhirajmaid",
-    Email: "abhirajmaid050@gmail.com",
-    Whatsapp: "https://wa.me/917385302967",
-  },
-  {
-    id: "4",
-    Name: "Abhiraj Maid",
-    Profile:
-      "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    Insta: "https://instagram.com/abhirajmaid",
-    Email: "abhirajmaid050@gmail.com",
-    Whatsapp: "https://wa.me/917385302967",
-  },
-];
 
 const Contact = () => {
   return (
@@ -54,7 +17,7 @@ const Contact = () => {
         />
         <h1 className="title">Contact Our Team</h1>
         <div className="contacts">
-          {contacts.map((contact) => (
+          {ContactData.map((contact) => (
             <div className="contact" key={contact.id}>
               <div className="overlay"></div>
               <img src={contact.Profile} alt="" />

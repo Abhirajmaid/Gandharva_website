@@ -54,8 +54,9 @@ const Event = () => {
           <div className="event_col">
             <div className="events">
               {events.map((event) => (
-                <Link to="/register">
+                <Link to={`/event/${event.id}`}>
                   <div
+                    key={event.id}
                     className="event"
                     onMouseEnter={toggleHover}
                     onMouseLeave={toggleHover}
@@ -63,9 +64,9 @@ const Event = () => {
                     <div className="event_overlay"></div>
                     <img src={event.EventPoster} alt="gandharva" />
                     <div className="event_info">
-                      <div className="date">{event.DateTime}</div>
+                      <div className="date">{event.Date}</div>
                       <h4 className="event_title">{event.EventName}</h4>
-                      <p className="event_des">{event.Description}</p>
+                      {/* <p className="event_des">{event.Description}</p> */}
                       {/* {hovered && (
                         <p className="event_des">{event.Description}</p>
                       )} */}

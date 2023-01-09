@@ -41,14 +41,20 @@ function Hero() {
     <div className="hero">
       <div className="hero_content">
         <div className="hero_txt">
-          GANDHARVA <br /> LET's START THE PARTY!
+          <span className="d_txt">GANDHARVA</span>
+          <br /> LET's START THE PARTY!
         </div>
         {/* <span className="slogan">Slogan Goes here!</span> */}
-        <div className="timing">LIVE IN PUNE | FROM JAN 26-29, 2023</div>
+        <div className="timing">
+          LIVE IN PUNE <br /> FROM JAN 26-29, 2023
+        </div>
         <div className="register_btn">
-          <Link to="/register">
-            <button>Register</button>
+          <Link to="/events">
+            <button>Register for Events</button>
           </Link>
+          <a href="/" className="sch_btn">
+            Event Schedule
+          </a>
         </div>
 
         <div className="counter">
