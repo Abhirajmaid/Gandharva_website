@@ -7,12 +7,12 @@ const EventsData = [
     EventBanner:
       "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     Description: "There will be up to 35 teams in the Tournament. Teams will consist of five players , one of whom will be designated captain and will be the main point of contact with the Tournament organisers.By participating in the Valorant Community Tournament, Participants acknowledge they will, without limitation, comply with the Tournament Rules and with the statements and decisions made by the Administration.",
-    EventHost: "",
+    EventHost: "Ajinkya Ghawale: (+91 9970282868), Gokul B: (+91 7758946564)",
     Date: "20-02-2023, 21-02-2023",
-    DateWord: "Mon, Feb 20",
+    DateWord: "Mon & Tue , Feb 20 & 21",
     Time: "6:00 - 9:00",
-    Location: "C-005 , C-006 , C-106 , C-108",
-    Dept: "ENTC",
+    Location: "C-005 , C-006 , C-106 , C-108 C Building, VIIT",
+    Dept: "EnTC",
     EntryFee: "250",
   },
 
@@ -25,12 +25,12 @@ const EventsData = [
       "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     Description:
       "A treasure hunt in which each clue will lead to a component and in the end, you have to assemble the component and work on the prototype/model.",
-    EventHost: "",
+    EventHost: "Mrunal Hedau:(+91 9552179944), Shreeyash Kelkar:(+91 9137823508)",
     Date: "",
     DateWord: "",
     Time: "",
-    Location: "C-108, C-107, C-105",
-    Dept: "ENTC",
+    Location: "C-108, C-107, C-105 C Building, VIIT",
+    Dept: "EnTC",
     EntryFee: "250",
   },
   {
@@ -42,12 +42,12 @@ const EventsData = [
       "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     Description:
       "We have to debug the repositories file which is being stored in github in a given time frame and the maximum bug solver will be the winner. Leaderboard will assign through max no of bug solvers.",
-    EventHost: "",
+    EventHost: "Gokul B: (+91 7758946564), Tejas Ugale: (+91 7666703180)",
     Date: "",
     DateWord: "",
-    Time: "6:00 - 9:00",
+    Time: "",
     Location: "C-106, C-006, C-005",
-    Dept: "ENTC",
+    Dept: "EnTC",
     EntryFee: "50",
   },
   {
@@ -76,11 +76,11 @@ const EventsData = [
       "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     Description:
       "This event will not only test your coding abilities but also your physical fitness. The task is to run codes and burn calories in real life, to obtain clues and progress to the next level. Teams must run around campus looking for clues that contain a code which they must solve/correct. This will be done in three rounds, and your logical, error-solving and DSA skills will be tested. Let’s see who can code and run their way to the top!",
-    EventHost: "",
+    EventHost: "Shardul Khandebharad: (9829704334), Kalpak Nemade: (7350103025)",
     Date: "21-02-2023",
     DateWord: "Tue, Feb 21",
     Time: "13:00 - 17:00",
-    Location: "D-301",
+    Location: "301, D-building, VIIT ",
     Dept: "AIDS",
     EntryFee: "50",
   },
@@ -94,7 +94,7 @@ const EventsData = [
       "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     Description:
       "What makes Data Dash unique is that rather than writing the entire code, you make incremental progress and pass it onto the next contributor just like in a relay race. Team members will come ahead and contribute to the visualizations one by one ,with the final person creating a creative and appealing dashboard. However, knowledge transfer is critical to success. Can you race your way to victory?",
-    EventHost: "",
+    EventHost: "Shruti Jadhav: (+91 7030057089), Noopur Phadke:(+91 7498819779)",
     Date: "20-02-2023",
     DateWord: "Mon, Feb 20",
     Time: "14:00 - 15:30",
@@ -112,11 +112,11 @@ const EventsData = [
       "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     Description:
       "As the name suggests, this event is going to be one of the most fun and exciting one.Fun zone has total 6 amazing games namely: a)Shrink the Circle: Huge circle will be drawn and participants will be placed inside that circle ,we will give some tasks to them and we will eliminate them if they failed to do so, we will shrink the circle simultaneously  and when very few people are left ,we will play RST game. RST game is the quick game in which we will ask them to start with any word which will not contain R or S or T and next person should speak a word which was related to previous one. b)Gun Wars: Participants will be provided with water guns and their body will be covered with paper sheets, when the game begins ,participants will shoot each other with water guns and if their paper sheet gets wet and torn out  then they will be eliminated. c)X/O: One frame will be created and it will be covered with nets. Participants will be marked X and O .If the same team participants are able to go through that frame in a sequential way (XXX or OOO) then that team wins that game. d)Retro Games:(Entire day) Our old retro games will be installed on some of the laptops and we will create a competition on the Clash Royal game and other games will be random fun game. i.(Clash Royal) -Flagship, ii.Crazy taxi, iii.pocket tank, iv.Road rash, v.Angry Birds. e) RC rocket league: In this game, we will make a football ground with two goal posts. There will be 2 teams playing against each other. Here instead of people, Remote Control Cars will play football and the team who bags maximum goals in the given time, wins the game.",
-    EventHost: "",
+    EventHost: "Atharva Jadhav: (+91 9763390976), Sahil Soujani (+91 9822713136)",
     Date: "",
     DateWord: "",
     Time: "",
-    Location: "D-301",
+    Location: "301, D Building, VIIT",
     Dept: "AIDS",
     EntryFee: "",
   },
@@ -189,8 +189,8 @@ const EventsData = [
     DateWord: "Mon, Feb 20",
     Time: "10:00-12:00 & 14:00-15:00",
     Location: "Ground, VIIT Pune",
-    Dept: "",
-    EntryFee: "199",
+    Dept: "MECH",
+    EntryFee: "200",
   },
 
   {
@@ -207,8 +207,8 @@ const EventsData = [
     DateWord: "Tue, Feb 21",
     Time: "11:00",
     Location: "Seminar Hall",
-    Dept: "",
-    EntryFee: "199",
+    Dept: "MECH",
+    EntryFee: "200",
   },
 
   {
@@ -225,8 +225,8 @@ const EventsData = [
     DateWord: "Mon, Feb 20",
     Time: "15:00",
     Location: "Ground, VIIT Pune",
-    Dept: "",
-    EntryFee: "99",
+    Dept: "MECH",
+    EntryFee: "100",
   },
 
   {
@@ -237,13 +237,13 @@ const EventsData = [
     EventBanner:
       "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     Description:
-      "Code Pad will be an offline debugging challenge. The participants will be given sheets of paper with C++ code written on it, which the participants will have to debug. Participants have to mark and correct syntactical and other errors in the program that might occur at compile time or run time. The participants will be given a limited amount of time for this activity. Top 2 participants who have detected and corrected the highest number of errors will be selected as the winners" ,
-    EventHost: "",
+      "Code Pad will be an offline debugging challenge. The participants will be given sheets of paper with C++ code written on it, which the participants will have to debug. Participants have to mark and correct syntactical and other errors in the program that might occur at compile time or run time. The participants will be given a limited amount of time for this activity. Top 2 participants who have detected and corrected the highest number of errors will be selected as the winners Prize: 1st:- 3000/- & 2nd : 2000/-" ,
+    EventHost: "Pranav Andhale (+91 9011685970), Akash Gulge (+91 72182 21823)",
     Date: "",
     DateWord: "",
-    Time: "15:00",
-    Location: "C-301, C-304",
-    Dept: "",
+    Time: "",
+    Location: "C-301, C-304, C building VIIT",
+    Dept: "IT",
     EntryFee: "30",
   },
 
@@ -260,8 +260,8 @@ const EventsData = [
     Date: "",
     DateWord: "",
     Time: "",
-    Location: "C building Labs",
-    Dept: "",
+    Location: "C building Labs, VIIT",
+    Dept: "IT",
     EntryFee: "100",
   },
 
@@ -274,12 +274,12 @@ const EventsData = [
       "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     Description:
       "Dive-in-Design will be an offline design competition. It will consist of two rounds. A) Round 1: Teams will create one template or poster using tools such as Canva, Figma, or others. The judging panel will select teams for Round 2 based on the quality and appeal of their designs. B) Round 2: Selected teams will implement the design using web development or mobile app development technologies, including HTML, CSS, JavaScript, React.js, Flutter, Jetpack Compose, Kotlin, Java, Swift, or React-Native. Teams will be evaluated based on their ability to accurately replicate the design template from Round 1. The judges for Round 2 will be VIIT faculty members" ,
-    EventHost: "",
+    EventHost: "Kalyani Londhe (+91 7447715770), Pratham Raka (+91 9511660800)" ,
     Date: "",
     DateWord: "",
     Time: "",
-    Location: "C building Labs",
-    Dept: "",
+    Location: " C-301 and C-304, 2 labs on the 3rd floor, C Building VIIT",
+    Dept: "IT",
     EntryFee: "80",
   },
 
@@ -296,8 +296,8 @@ const EventsData = [
     Date: "",
     DateWord: "",
     Time: "",
-    Location: "Road B/W B and C building",
-    Dept: "",
+    Location: "Road B/W B and C building, VIIT",
+    Dept: "IT",
     EntryFee: "100",
   },
 
@@ -310,14 +310,125 @@ const EventsData = [
       "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     Description:
       "The robots have to trace the course.Fastest Robot wins" ,
-    EventHost: "",
+    EventHost: "Yash Sunne: (+91 7798020997),Ashish Dhairyakar: (+91 9834607010)",
     Date: "20-02-2023, 21-02-2023",
-    DateWord: "Mon, Feb 20",
+    DateWord: "Mon & Tue, Feb 20 & 21",
     Time: "",
-    Location: "C-001 , Open Space in C building",
-    Dept: "ENTC",
+    Location: "C-001 , Open Space in C building, VIIT",
+    Dept: "EnTC",
     EntryFee: "250",
   },
+
+  {
+    id: "18",
+    EventName: "LEGO TECH",
+    EventPoster:
+      "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    EventBanner:
+      "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    Description:
+      "LEGO TECH is an event where teams have to build a car using Lego. Teams have to find Legos in the first round, a treasure hunt. The treasure hunt will consist of 3 sub-rounds, where each team will have to find the Legos using the clues and codes provided to them. Teams have to build cars within their allotted time. The team with the maximum points will be declared the winner. - The team should be a group of 4 members only. - Each team will have 30 minutes to build the cars using the Lego kit. - All the team members should be present at the allotted time. Prize money: 1st = 3000/- and 2nd = 2000/-" ,
+    EventHost: "",
+    Date: " 21-02-2023",
+    DateWord: "Mon, Feb 21",
+    Time: "11:00 AM to 04:00 PM",
+    Location: "MESA Logo at E-Building, VIIT, Pune ",
+    Dept: "MECH",
+    EntryFee: "200",
+  },
+
+  {
+    id: "19",
+    EventName: "The Stats Say…",
+    EventPoster:
+      "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    EventBanner:
+      "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    Description:
+      "The theme of the event is data story-telling. The participant teams will be given problem statements which will contain basic information of the company such as the domain, keywords related to products, aim, target audience. A small dataset describing company’s past performance will also be given. aim, target audience. A small dataset describing companys past performance will also be given.  The teams have to design a website that will describe the company’s entire details in best possible way. The site can be developed using any means which can include frameworks or programming languages or even tools such as figma / wordpress. . Participating teams are expected to make use of attractive charts that best describe the growth of company. The evaluation will be done considering design factors and other criteria such as readability of the content. " ,
+    EventHost: "Priyanshu Nikam (+91 9561451705), Swarangi Gulalkari (+91 7038370827)",
+    Date: " 21-02-2023",
+    DateWord: "Mon, Feb 21",
+    Time: "11:00 AM to 04:00 PM",
+    Location: "B201, B-Building, VIIT, Pune ",
+    Dept: "CS",
+    EntryFee: "200",
+  },
+
+  {
+    id: "20",
+    EventName: "A Day Of Solutions",
+    EventPoster:
+      "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    EventBanner:
+      "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    Description:
+      "A Day Of Solutions will be an offline problem solving challenge. The participants will be given notepads. Problems will be provided to the mail id of respected participants, which the participants have to give a effective and relevant solution of the any one problem.Participants will be given problem statements 48 hours prior, of which they must provide solutions in the form of presentation by presenting the solution infront of the judges.Participants have to submit the solutions on the Google Form circulated before 9am on the day of event. Top 2 participant groups who have presented the most effective solutions will be selected as winners. Event Duration: 4 hours (10mins for each presentation)" ,
+    EventHost: "Sahil Ingle  (+91 9579534587), Shubham Anawade (+91 9156789105)",
+    Date: " 20-02-2023",
+    DateWord: "Mon, Feb 20",
+    Time: "",
+    Location: "D-007, D-Building, VIIT, Pune ",
+    Dept: "CIVIL",
+    EntryFee: "100",
+  },
+
+  {
+    id: "21",
+    EventName: "BridgeIT",
+    EventPoster:
+      "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    EventBanner:
+      "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    Description:
+      "BridgeIT is a model making event, a model of bridge is to be constructed using structural knowledge about trusses. All the dimension criteria and necessary material will be provided to the participants at the time of the event. " ,
+    EventHost: "Muzaffar Solanki (9175493115)",
+    Date: " 20-02-2023,21-02-2023",
+    DateWord: "Mon & Tue, Feb 20 & 21",
+    Time: "",
+    Location: "D-007, D-Building, VIIT, Pune ",
+    Dept: "CIVIL",
+    EntryFee: "150",
+  },
+
+  {
+    id: "22",
+    EventName: "Treasure Hunt",
+    EventPoster:
+      "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    EventBanner:
+      "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    Description:
+      "An enthralling escape from a monotonous routine to an exhilarating hunt. Treasure hunt is a game where you will be setting up a treasure hunt by hiding clues and the treasure. Each clue will tell you where to find the next clue. The final clue will lead to the treasure. Event Duration: 4hrs" ,
+    EventHost: "Rachita Munot (+91 8080362147)",
+    Date: " 20-02-2023,21-02-2023",
+    DateWord: "Mon & Tue, Feb 20 & 21",
+    Time: "",
+    Location: "D-101, D-Building, VIIT, Pune ",
+    Dept: "CIVIL",
+    EntryFee: "100",
+  },
+
+  {
+    id: "23",
+    EventName: "ADD CAD",
+    EventPoster:
+      "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    EventBanner:
+      "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    Description:
+      "ADD CAD will be a event in which the participants will be tested for their knowledge in AutoCad Software And Also their knowledge in Building Planning.  It will be conducted in 3 Rounds Respectively Round 1 :- MCQs Test For their Knowledge Related To AUTOCAD (30 - 45 mins) Round 2 :- It Will Be a Round Testing the participants proficiency in the Software (45 mins) Round 3 :- Will Consist of Planning a Building (1Hr 15Mins)  Event Duration: 5 Hrs " ,
+    EventHost: "Rachita Munot (+91 8080362147)",
+    Date: " 20-02-2023",
+    DateWord: "Mon , Feb 20 ",
+    Time: "",
+    Location: "D-001 & D-108, D-Building, VIIT, Pune ",
+    Dept: "CIVIL",
+    EntryFee: "100",
+  },
+
+
+
 ];
 
 export default EventsData;
