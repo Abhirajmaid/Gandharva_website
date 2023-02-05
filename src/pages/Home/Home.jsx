@@ -25,9 +25,9 @@ const Home = () => {
           <div className="participate_sec">
             <Participate />
           </div>
-          <div className="event_sch">
+          {/* <div className="event_sch">
             <EventSch />
-          </div>
+          </div> */}
           <div className="sponsor_sec">
             <Sponsors />
           </div>

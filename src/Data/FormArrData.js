@@ -45,6 +45,34 @@ const FormData = [
     submitBtn: "Register",
     redirect: null,
   },
+  {
+    id: 2,
+    title: "Register event 2",
+    formArr: [
+      {
+        name: "name",
+        placeholder: "Name",
+        type: "text",
+      },
+      {
+        name: "name1",
+        placeholder: "Name of 2nd",
+        type: "text",
+      },
+      {
+        name: "email",
+        placeholder: "Email",
+        type: "text",
+      },
+      {
+        name: "password",
+        placeholder: "Password",
+        type: "password",
+      },
+    ],
+    submitBtn: "Register",
+    redirect: null,
+  },
 ];
 
 export default FormData;

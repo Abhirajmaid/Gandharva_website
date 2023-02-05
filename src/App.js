@@ -15,7 +15,7 @@ import Admin from "./pages/Admin/Admin";
 import SponsorForm from "./pages/SponsorForm/SponsorForm";
 import Footer from "./components/Footer/Footer";
 import Navbar from "./components/Navbar/Navbar";
-import Form from "./components/Form/Form";
+
 const Layout = () => {
   return (
     <>
