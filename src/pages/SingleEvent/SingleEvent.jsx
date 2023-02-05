@@ -103,7 +103,7 @@ const SingleEvent = () => {
               </div>
             </div>
           </div>
-          <div className="other_event_container">
+          {/* <div className="other_event_container">
             <div className="other_events">
               <h2>Other Events: </h2>
               {EventsData.map((event) => {
@@ -119,7 +119,7 @@ const SingleEvent = () => {
                 );
               })}
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </>

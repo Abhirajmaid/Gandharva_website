@@ -1,6 +1,8 @@
 import React from "react";
 import "./style.css";
 import { Link } from "react-router-dom";
+import webfudge from "../../../images/1.png";
+
 const Sponsors = () => {
   return (
     <>
@@ -14,14 +16,16 @@ const Sponsors = () => {
         }}
       >
         <div className="sSec">
-          <h3>PLATINUM</h3>
+          {/* <h3>PLATINUM</h3> */}
           <div className="items">
-            <div className="item"></div>
+            <div className="item">
+              <img src={webfudge} alt="" />
+            </div>
             <div className="item"></div>
             <div className="item"></div>
           </div>
         </div>
-        <div className="sSec">
+        {/* <div className="sSec">
           <h3>GOLD</h3>
           <div className="items">
             <div className="item"></div>
@@ -36,7 +40,7 @@ const Sponsors = () => {
             <div className="item"></div>
             <div className="item"></div>
           </div>
-        </div>
+        </div> */}
       </div>
 
       <div className="sUwrap">

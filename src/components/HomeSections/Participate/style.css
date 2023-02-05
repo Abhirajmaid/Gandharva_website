@@ -38,6 +38,11 @@
     left: 75px;
 }
 
+.pCircle .pIcon {
+    width: 60%;
+    height: 60%;
+}
+
 .pItem .pText {
     text-align: center;
     font-weight: 600;

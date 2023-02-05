@@ -9,11 +9,11 @@ const Participate = () => {
       <div className="pWrap">
         <div className="pItem">
           <div className="pCircle">
-            <Icon />
+            <Icon className="pIcon" icon="heroicons:user-group-solid" />
           </div>
           <div className="pText">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Numquam
-            iure, dolor eveniet ad doloremque eaque.
+            Since most of these activities are group-oriented, students get to
+            know about people from different cultural backgrounds and interests.
           </div>
         </div>
 
@@ -22,8 +22,9 @@ const Participate = () => {
             <Icon />
           </div>
           <div className="pText">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur
-            accusantium et recusandae, quia vero magni!
+            Various technical and cultural events are conducted during the fest.
+            It helps to boost confidence, enhance students knowledge while
+            competing with other students.
           </div>
         </div>
 
@@ -32,8 +33,9 @@ const Participate = () => {
             <Icon />
           </div>
           <div className="pText">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero
-            vero atque ipsa impedit doloribus non.
+            Fests provide a platform for students to showcase one’s unique
+            talents and are important in the holistic development of the
+            personality of the students.
           </div>
         </div>
       </div>

@@ -10,7 +10,7 @@ function Hero() {
 
   let interval;
   const startTimer = () => {
-    const countDownDate = new Date("Jan 23, 2023 ").getTime();
+    const countDownDate = new Date("Feb 20, 2023 ").getTime();
 
     interval = setInterval(() => {
       const now = new Date().getTime();
@@ -46,15 +46,15 @@ function Hero() {
         </div>
         {/* <span className="slogan">Slogan Goes here!</span> */}
         <div className="timing">
-          LIVE IN PUNE <br /> FROM JAN 26-29, 2023
+          LIVE IN PUNE <br /> FROM FEB 20-25, 2023
         </div>
         <div className="register_btn">
           <Link to="/events">
             <button>Register for Events</button>
           </Link>
-          <a href="/" className="sch_btn">
+          {/* <a href="/" className="sch_btn">
             Event Schedule
-          </a>
+          </a> */}
         </div>
 
         <div className="counter">

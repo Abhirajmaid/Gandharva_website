@@ -2,14 +2,14 @@ import React from "react";
 import "./style.css";
 import { Icon } from "@iconify/react";
 import { Link } from "react-router-dom";
-
+import logo from "../../images/logo.png";
 function Footer() {
   return (
     <div className="footer">
       <div className="logo">
         <Link to="/">
-          {/* <img src={Logo} alt="gandharva_logo" /> */}
-          <h2>LOGO</h2>
+          <img src={logo} alt="gandharva_logo" />
+          {/* <h2>LOGO</h2> */}
         </Link>
       </div>
       <div className="socials">
@@ -27,7 +27,11 @@ function Footer() {
         <div className="copyright_txt">
           Copyright ©️2023. Gandharva. All Rights Reserved.
         </div>
-        <a href="https://webfudge.in" target="_blank" rel="noreferrer">
+        <a
+          href="https://www.instagram.com/webfudge/"
+          target="_blank"
+          rel="noreferrer"
+        >
           Design by <b>Webfudge</b>
         </a>
       </div>
