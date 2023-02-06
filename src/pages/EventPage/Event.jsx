@@ -38,8 +38,8 @@ const Event = () => {
             <button className="dept" onClick={() => filterData("IT")}>
               IT DEPT
             </button>
-            <button className="dept" onClick={() => filterData("AIDS")}>
-              AIDS DEPT
+            <button className="dept" onClick={() => filterData("AI&DS")}>
+              AI&DS DEPT
             </button>
             <button className="dept" onClick={() => filterData("EnTC")}>
               EnTC DEPT
