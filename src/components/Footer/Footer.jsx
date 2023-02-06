@@ -13,15 +13,15 @@ function Footer() {
         </Link>
       </div>
       <div className="socials">
-        <Link>
-          <Icon className="social" icon="ri:linkedin-fill" />
-        </Link>
-        <Link>
+        <a href="https://mobile.twitter.com/gandharvaviit">
+          <Icon className="social" icon="ph:twitter-logo" />
+        </a>
+        <a href="https://www.instagram.com/gandharva_viit/?igshid=Y">
           <Icon className="social" icon="ph:instagram-logo" />
-        </Link>
-        <Link>
+        </a>
+        <a href="https://www.youtube.com/@GandharvaVIIT">
           <Icon className="social" icon="mdi:youtube" />
-        </Link>
+        </a>
       </div>
       <div className="copy_txt">
         <div className="copyright_txt">
