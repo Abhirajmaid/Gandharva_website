@@ -26,17 +26,10 @@ const EventsData = [
     EventBanner:
     default_banner,
     Description:
-<<<<<<< HEAD
-      "A treasure hunt in which each clue will lead \n to a component and in the end, you have to assemble the component and work on the prototype/model.",
-    EventHost: "Mrunal Hedau:(+91 9552179944), Shreeyash Kelkar:(+91 9137823508)",
-    Date: "",
-    DateWord: "",
-=======
       "A treasure hunt in which each clue will lead to a component and in the end, you have to assemble the component and work on the prototype model. Register individually ",
     EventHost: "Mrunal Hedau:(+919552179944)  Shreeyash Kelkar:(+919137823508)",
     Date: "To be Announced",
     DateWord: "To be Announced",
->>>>>>> accfbe46ae1196150471666815e63ace1349fed2
     Time: "",
     Location: "C-108, C-107, C-105 C Building, VIIT",
     Dept: "EnTC",
