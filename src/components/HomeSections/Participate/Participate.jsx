@@ -22,7 +22,6 @@ const Participate = () => {
             <Icon />
           </div>
           <div className="pText">
-            Various technical and cultural events are conducted during the fest.
             It helps to boost confidence, enhance students knowledge while
             competing with other students.
           </div>

@@ -32,9 +32,9 @@ const About = () => {
           this is together responsible for rejuvenating the atmosphere and
           experiencing euphoria.
         </div>
-        <Link to="/about">
+        {/* <Link to="/about">
           <button className="aboutReadMore">Read More</button>
-        </Link>
+        </Link> */}
       </div>
     </div>
   );
