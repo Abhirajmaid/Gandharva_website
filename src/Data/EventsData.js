@@ -25,7 +25,7 @@ const EventsData = [
     EventBanner:
     default_banner,
     Description:
-      "A treasure hunt in which each clue will lead to a component and in the end, you have to assemble the component and work on the prototype/model.",
+      "A treasure hunt in which each clue will lead \n to a component and in the end, you have to assemble the component and work on the prototype/model.",
     EventHost: "Mrunal Hedau:(+91 9552179944), Shreeyash Kelkar:(+91 9137823508)",
     Date: "",
     DateWord: "",

@@ -114,9 +114,12 @@
 }
 
 @media screen and (max-width:480px) {
+
     .event_container {
         flex-direction: column;
     }
+
+    
 
     .event_col {
         width: 100%;
@@ -143,7 +146,7 @@
 
 
     .dept {
-        width: 45%;
+        max-width: 30vw;
         padding: 10px;
         font-size: 12px;
     }

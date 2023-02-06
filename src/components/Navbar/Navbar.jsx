@@ -19,9 +19,9 @@ const Navbar = () => {
           <Link className="link" to="/events">
             <h6>Event</h6>
           </Link>
-          <Link className="link" to="/about">
+          {/* <Link className="link" to="/about">
             <h6>About Us</h6>
-          </Link>
+          </Link> */}
           <Link className="link" to="/faq">
             <h6>FAQs</h6>
           </Link>

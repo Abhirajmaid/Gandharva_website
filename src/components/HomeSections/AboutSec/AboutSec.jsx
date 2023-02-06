@@ -7,7 +7,7 @@ const About = () => {
   return (
     <div className="about">
       <div className="leftAbout">
-        <video
+        <video className="aboutVid"
           src={video}
           width="600"
           height="400"
