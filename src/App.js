@@ -14,6 +14,7 @@ import FormRender from "./pages/FormRender/FormRender";
 import Admin from "./pages/Admin/Admin";
 import SponsorForm from "./pages/SponsorForm/SponsorForm";
 import Footer from "./components/Footer/Footer";
+import RegisterTest from "./pages/RegisterTest/RegisterTest";
 import Navbar from "./components/Navbar/Navbar";
 
 const Layout = () => {
@@ -69,9 +70,13 @@ const router = createBrowserRouter([
     path: "/sponsor_us",
     element: <SponsorForm />,
   },
+  // {
+  //   path: "/event/reg/:id",
+  //   element: <FormRender />,
+  // },
   {
-    path: "/event/reg/:id",
-    element: <FormRender />,
+    path: "/event/reg",
+    element: <RegisterTest />,
   },
 ]);
 

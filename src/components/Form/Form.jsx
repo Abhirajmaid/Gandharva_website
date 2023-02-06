@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import Gradient from "../Gradient/Gradient";
 import "./style.css";
+import { db } from "../../Firebase";
+// import Regex from "regex";
 
 const prepareForm = (formArr) => {
   return formArr.reduce((r, v) => ({ ...r, [v.name]: "" }), {});
@@ -14,7 +16,46 @@ const Form = ({ title, formArr, submitBtn, redirect, collection }) => {
     setForm((p) => ({ ...p, [e.target.name]: e.target.value }));
   };
   const handleSubmit = () => {
-    console.log(form);
+    console.log("done");
+    // const regex = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/i;
+    if (form.name !== "" && form.contact !== "") {
+      db.collection(`${title}`)
+        .add({
+          name: form.name,
+          contact: form.contact,
+        })
+        .then(() => {
+          alert("Thanks For Registration💖");
+        })
+        .catch((error) => {
+          alert(error.message);
+        });
+
+      // //emailjs here...
+      // emailjs
+      //   .sendForm(
+      //     "service_yrtwoqd",
+      //     "template_9u7lpzf",
+      //     e.target,
+      //     "ianq_Ulidp_vjgKT4"
+      //   )
+      //   .then((res) => {
+      //     console.log(res);
+      //   })
+      //   .catch((err) => {
+      //     console.log(err);
+      //   });
+      console.log("err");
+      setForm(initialForm);
+
+      //   setError("Check your inbox...");
+      // } else if (userName === "" || email === "") {
+      //   console.log("Seriously, You don't know anythig ? 😂😂");
+      //   setError("Above fields are blank. 😶");
+      // } else if (regex.test(email) === false) {
+      //   setError("Please enter correct Email!");
+    }
+    // console.log(form);
   };
   return (
     <>
@@ -48,7 +89,7 @@ const Form = ({ title, formArr, submitBtn, redirect, collection }) => {
           >
             {submitBtn}
           </button>
-          <p>This is an error!</p>
+          {/* <p>This is an error!</p> */}
         </form>
       </div>
     </>
@@ -63,9 +104,9 @@ Form.defaultProps = {
       type: "text",
     },
     {
-      name: "email",
-      placeholder: "Email",
-      type: "text",
+      name: "Contact",
+      placeholder: "Contact No.",
+      type: "number",
     },
   ],
   submitBtn: "Register",
