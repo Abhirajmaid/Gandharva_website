@@ -1,39 +1,66 @@
+import maruf from "../images/team/Maruf_Khan.jpeg"
+import abhiraj from "../images/team/abhiraj.jpg"
+import avishkar from "../images/team/Avishkar_Professional.JPG"
+import omkar from "../images/team/omkar.jpg"
+import sanket from "../images/team/Sanket.jpg"
+import shreyas from "../images/team/Shreyash_Nalawade.jpeg"
+
 const ContactData = [
   {
     id: "1",
     Name: "Abhiraj Maid",
     Profile:
-      "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    Insta: "https://instagram.com/abhirajmaid",
-    Email: "abhirajmaid050@gmail.com",
-    Whatsapp: "https://wa.me/917385302967",
+      abhiraj,
+    // Insta: "https://instagram.com/abhirajmaid",
+    // Email: "abhirajmaid050@gmail.com",
+    // Whatsapp: "https://wa.me/917385302967",
   },
   {
     id: "3",
-    Name: "Abhiraj Maid",
+    Name: "Maruf Khan",
     Profile:
-      "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    Insta: "https://instagram.com/abhirajmaid",
-    Email: "abhirajmaid050@gmail.com",
-    Whatsapp: "https://wa.me/917385302967",
+      maruf,
+    // Insta: "https://instagram.com/abhirajmaid",
+    // Email: "abhirajmaid050@gmail.com",
+    // Whatsapp: "https://wa.me/917385302967",
   },
   {
     id: "2",
-    Name: "Abhiraj Maid",
+    Name: "Omkar Khade",
     Profile:
-      "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    Insta: "https://instagram.com/abhirajmaid",
-    Email: "abhirajmaid050@gmail.com",
-    Whatsapp: "https://wa.me/917385302967",
+      omkar,
+    // Insta: "https://instagram.com/abhirajmaid",
+    // Email: "abhirajmaid050@gmail.com",
+    // Whatsapp: "https://wa.me/917385302967",
   },
   {
     id: "4",
-    Name: "Abhiraj Maid",
+    Name: "Avishkar Gandhi",
     Profile:
-      "https://images.pexels.com/photos/7008010/pexels-photo-7008010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    Insta: "https://instagram.com/abhirajmaid",
-    Email: "abhirajmaid050@gmail.com",
-    Whatsapp: "https://wa.me/917385302967",
+      avishkar,
+    // Insta: "https://instagram.com/abhirajmaid",
+    // Email: "abhirajmaid050@gmail.com",
+    // Whatsapp: "https://wa.me/917385302967",
+  },
+
+  {
+    id: "5",
+    Name: "Shreyash Nalawade",
+    Profile:
+      shreyas,
+    // Insta: "https://instagram.com/abhirajmaid",
+    // Email: "abhirajmaid050@gmail.com",
+    // Whatsapp: "https://wa.me/917385302967",
+  },
+
+  {
+    id: "6",
+    Name: "Sanket Rathod",
+    Profile:
+      sanket,
+    // Insta: "https://instagram.com/abhirajmaid",
+    // Email: "abhirajmaid050@gmail.com",
+    // Whatsapp: "https://wa.me/917385302967",
   },
 ];
 

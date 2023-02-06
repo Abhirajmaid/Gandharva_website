@@ -60,12 +60,12 @@
         gap: 20px;
     }
 
-    .aboutImg {
+    .aboutVid {
         max-height: 250px;
         width: 95%;
     }
 
-    .aboutImg img {
+    .aboutVid video {
         margin: auto;
     }
 
