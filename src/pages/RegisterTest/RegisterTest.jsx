@@ -33,7 +33,7 @@ const RegisterTest = () => {
           contact: user.contact,
         })
         .then(() => {
-          alert("Thanks For Registration💖");
+          alert("Thanks and pay now on VIERP");
         })
         .catch((error) => {
           alert(error.message);
@@ -111,7 +111,7 @@ const RegisterTest = () => {
             accept="image/png, image/jpeg"
           /> */}
           <button type="submit" onClick={(e) => handleSubmit(e)}>
-            Register
+            Pay Now
           </button>
           {error && <p>Fill all fields above!</p>}
         </form>

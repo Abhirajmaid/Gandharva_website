@@ -3,7 +3,7 @@ import default_banner from "../images/gandharva_landscape.png"
 const EventsData = [
   {
     id: "0",
-    EventName: "Valorent",
+    EventName: "Valorant",
     EventPoster:
     default_poster,
     EventBanner:
@@ -20,7 +20,7 @@ const EventsData = [
 
   {
     id: "1",
-    EventName: "Pseudo Search",
+    EventName: "Circuit",
     EventPoster:
     default_poster,
     EventBanner:
@@ -77,14 +77,14 @@ const EventsData = [
     EventBanner:
     default_banner,
     Description:
-      "This event will not only test your coding abilities but also your physical fitness. The task is to run codes and burn calories in real life, to obtain clues and progress to the next level. Teams must run around campus looking for clues that contain a code which they must solve/correct. This will be done in three rounds, and your logical, error-solving and DSA skills will be tested. Let’s see who can code and run their way to the top!",
+      "This event will not only test your coding abilities but also your physical fitness. The task is to run codes and burn calories in real life, to obtain clues and progress to the next level. Teams must run around campus looking for clues that contain a code which they must solve/correct. This will be done in three rounds, and your logical, error-solving and DSA skills will be tested. Let’s see who can code and run their way to the top! Prize Money: 1st:35000/- & 2nd:2500/-",
     EventHost: "Shardul Khandebharad: (+919829704334) Kalpak Nemade: (+917350103025)",
     Date: "21-02-2023",
     DateWord: "Tue, Feb 21",
     Time: "13:00 - 17:00",
     Location: "301, D-building, VIIT ",
     Dept: "AIDS",
-    EntryFee: "50",
+    EntryFee: "200",
   },
 
   {
@@ -95,14 +95,14 @@ const EventsData = [
     EventBanner:
     default_banner,
     Description:
-      "What makes Data Dash unique is that rather than writing the entire code, you make incremental progress and pass it onto the next contributor just like in a relay race. Team members will come ahead and contribute to the visualizations one by one ,with the final person creating a creative and appealing dashboard. However, knowledge transfer is critical to success. Can you race your way to victory?",
+      "What makes Data Dash unique is that rather than writing the entire code, you make incremental progress and pass it onto the next contributor just like in a relay race. Team members will come ahead and contribute to the visualizations one by one ,with the final person creating a creative and appealing dashboard. However, knowledge transfer is critical to success. Can you race your way to victory? Prize Money: 1st:5000/- & 2nd:3000/-",
     EventHost: "Shruti Jadhav: (+91 7030057089), Noopur Phadke:(+91 7498819779)",
     Date: "20-02-2023",
     DateWord: "Mon, Feb 20",
     Time: "14:00 - 15:30",
     Location: "D-301,D Building,VIIT",
     Dept: "AIDS",
-    EntryFee: "50",
+    EntryFee: "200",
   },
 
   {
@@ -113,14 +113,14 @@ const EventsData = [
     EventBanner:
     default_banner,
     Description:
-      "As the name suggests, this event is going to be one of the most fun and exciting one.Fun zone has total 6 amazing games namely: a)Shrink the Circle: Huge circle will be drawn and participants will be placed inside that circle ,we will give some tasks to them and we will eliminate them if they failed to do so, we will shrink the circle simultaneously  and when very few people are left ,we will play RST game. RST game is the quick game in which we will ask them to start with any word which will not contain R or S or T and next person should speak a word which was related to previous one. b)Gun Wars: Participants will be provided with water guns and their body will be covered with paper sheets, when the game begins ,participants will shoot each other with water guns and if their paper sheet gets wet and torn out  then they will be eliminated. c)X/O: One frame will be created and it will be covered with nets. Participants will be marked X and O .If the same team participants are able to go through that frame in a sequential way (XXX or OOO) then that team wins that game. d)Retro Games:(Entire day) Our old retro games will be installed on some of the laptops and we will create a competition on the Clash Royal game and other games will be random fun game. i.(Clash Royal) -Flagship, ii.Crazy taxi, iii.pocket tank, iv.Road rash, v.Angry Birds. e) RC rocket league: In this game, we will make a football ground with two goal posts. There will be 2 teams playing against each other. Here instead of people, Remote Control Cars will play football and the team who bags maximum goals in the given time, wins the game.",
+      "As the name suggests, this event is going to be one of the most fun and exciting one.Fun zone has total 6 amazing games namely: a)Shrink the Circle: Huge circle will be drawn and participants will be placed inside that circle ,we will give some tasks to them and we will eliminate them if they failed to do so, we will shrink the circle simultaneously  and when very few people are left ,we will play RST game. RST game is the quick game in which we will ask them to start with any word which will not contain R or S or T and next person should speak a word which was related to previous one. b)Gun Wars: Participants will be provided with water guns and their body will be covered with paper sheets, when the game begins ,participants will shoot each other with water guns and if their paper sheet gets wet and torn out  then they will be eliminated. c)X/O: One frame will be created and it will be covered with nets. Participants will be marked X and O .If the same team participants are able to go through that frame in a sequential way (XXX or OOO) then that team wins that game. d)Retro Games:(Entire day) Our old retro games will be installed on some of the laptops and we will create a competition on the Clash Royal game and other games will be random fun game. i.(Clash Royal) -Flagship, ii.Crazy taxi, iii.pocket tank, iv.Road rash, v.Angry Birds. e) RC rocket league: In this game, we will make a football ground with two goal posts. There will be 2 teams playing against each other. Here instead of people, Remote Control Cars will play football and the team who bags maximum goals in the given time, wins the game. Prize Worth Rs8000/-",
     EventHost: "Atharva Jadhav: (+91 9763390976), Sahil Soujani (+91 9822713136)",
     Date: "",
     DateWord: "",
     Time: "",
     Location: "301, D Building, VIIT",
     Dept: "AIDS",
-    EntryFee: "",
+    EntryFee: "100",
   },
 
   {
@@ -131,14 +131,14 @@ const EventsData = [
     EventBanner:
     default_banner,
     Description:
-      "This event will test the critical thinking abilities and your understanding of solving problem statements through programming. There will be 4 rounds each of 5 mins where participants individually will be challenged with a Pseudo Code and they have to identify the problem statement from the same. As soon as the participant cracks the pseudo code, they will hit the buzzer. Winners will be decided by the accuracy of the answer and the time taken" ,
+      "This event will test the critical thinking abilities and your understanding of solving problem statements through programming. There will be 4 rounds each of 5 mins where participants individually will be challenged with a Pseudo Code and they have to identify the problem statement from the same. As soon as the participant cracks the pseudo code, they will hit the buzzer. Winners will be decided by the accuracy of the answer and the time taken. Prize Money: 1st:3000/- & 2nd:2000/-" ,
     EventHost: "",
     Date: "21-02-2023",
     DateWord: "Tue, Feb 21",
     Time: "11:00-12:00 & 14:00-15:00",
-    Location: "D-301",
+    Location: "D-301,D Building VIIT",
     Dept: "AIDS",
-    EntryFee: "",
+    EntryFee: "100",
   },
 
   {
