@@ -20,7 +20,7 @@ const EventsData = [
 
   {
     id: "1",
-    EventName: "Circuit",
+    EventName: "Pseudo Search",
     EventPoster:
     default_poster,
     EventBanner:
@@ -52,23 +52,25 @@ const EventsData = [
     Dept: "EnTC",
     EntryFee: "50",
   },
+  
   {
     id: "3",
-    EventName: "What The Hack(WTH)",
+    EventName: "ADD CAD",
     EventPoster:
     default_poster,
     EventBanner:
     default_banner,
     Description:
-      "Cyber Workshop, Talk",
-    EventHost: "Jay Subhedar (+9198601 9204)",
-    Date: "21-02-2023",
-    DateWord: "Tue, Feb 21",
+      "ADD CAD will be a event in which the participants will be tested for their knowledge in AutoCad Software And Also their knowledge in Building Planning.  It will be conducted in 3 Rounds Respectively Round 1 :- MCQs Test For their Knowledge Related To AUTOCAD (30 - 45 mins) Round 2 :- It Will Be a Round Testing the participants proficiency in the Software (45 mins) Round 3 :- Will Consist of Planning a Building (1Hr 15Mins)  Event Duration: 5 Hrs " ,
+    EventHost: "Rachita Munot (+918080362147)",
+    Date: " 20-02-2023",
+    DateWord: "Mon , Feb 20 ",
     Time: "",
-    Location: "B-104, Seminar hall",
-    Dept: "CS",
-    EntryFee: "50",
+    Location: "D-001 & D-108, D-Building, VIIT, Pune ",
+    Dept: "CIVIL",
+    EntryFee: "100",
   },
+
   {
     id: "4",
     EventName: "Fix and Find (Team)",
@@ -77,7 +79,7 @@ const EventsData = [
     EventBanner:
     default_banner,
     Description:
-      "This event will not only test your coding abilities but also your physical fitness. The task is to run codes and burn calories in real life, to obtain clues and progress to the next level. Teams must run around campus looking for clues that contain a code which they must solve/correct. This will be done in three rounds, and your logical, error-solving and DSA skills will be tested. Let’s see who can code and run their way to the top! Entry Fee is Rs.200/Team. Prize Money: 1st:35000/- & 2nd:2500/-",
+      "This event will not only test your coding abilities but also your physical fitness. The task is to run codes and burn calories in real life, to obtain clues and progress to the next level. Teams must run around campus looking for clues that contain a code which they must solve/correct. This will be done in three rounds, and your logical, error-solving and DSA skills will be tested. Let’s see who can code and run their way to the top! Entry Fee is Rs.200/Team. Prize Money: 1st: 3500/- & 2nd: 2500/-",
     EventHost: "Shardul Khandebharad: (+919829704334) Kalpak Nemade: (+917350103025)",
     Date: "21-02-2023",
     DateWord: "Tue, Feb 21",
@@ -131,7 +133,7 @@ const EventsData = [
     EventBanner:
     default_banner,
     Description:
-      "This event will test the critical thinking abilities and your understanding of solving problem statements through programming. There will be 4 rounds each of 5 mins where participants individually will be challenged with a Pseudo Code and they have to identify the problem statement from the same. As soon as the participant cracks the pseudo code, they will hit the buzzer. Winners will be decided by the accuracy of the answer and the time taken. Entry Fee is Rs.100/Person. \n Prize Money: 1st:3000/- & 2nd:2000/-" ,
+      "This event will test the critical thinking abilities and your understanding of solving problem statements through programming. There will be 4 rounds each of 5 mins where participants individually will be challenged with a Pseudo Code and they have to identify the problem statement from the same. As soon as the participant cracks the pseudo code, they will hit the buzzer. Winners will be decided by the accuracy of the answer and the time taken. Entry Fee is Rs.100/Person.  Prize Money: 1st:3000/- & 2nd:2000/-" ,
     EventHost: "Ruchika Taware (+918888844659 Shreya Patil (+919730836615))",
     Date: "21-02-2023",
     DateWord: "Tue, Feb 21",
@@ -411,25 +413,25 @@ const EventsData = [
     EntryFee: "100",
   },
 
+  
+
   {
     id: "23",
-    EventName: "ADD CAD",
+    EventName: "What The Hack(WTH)",
     EventPoster:
     default_poster,
     EventBanner:
     default_banner,
     Description:
-      "ADD CAD will be a event in which the participants will be tested for their knowledge in AutoCad Software And Also their knowledge in Building Planning.  It will be conducted in 3 Rounds Respectively Round 1 :- MCQs Test For their Knowledge Related To AUTOCAD (30 - 45 mins) Round 2 :- It Will Be a Round Testing the participants proficiency in the Software (45 mins) Round 3 :- Will Consist of Planning a Building (1Hr 15Mins)  Event Duration: 5 Hrs " ,
-    EventHost: "Rachita Munot (+918080362147)",
-    Date: " 20-02-2023",
-    DateWord: "Mon , Feb 20 ",
+      "Cyber Workshop, Talk",
+    EventHost: "Jay Subhedar (+9198601 9204)",
+    Date: "21-02-2023",
+    DateWord: "Tue, Feb 21",
     Time: "",
-    Location: "D-001 & D-108, D-Building, VIIT, Pune ",
-    Dept: "CIVIL",
-    EntryFee: "100",
+    Location: "B-104, Seminar hall",
+    Dept: "CS",
+    EntryFee: "50",
   },
-
-
 
 ];
 

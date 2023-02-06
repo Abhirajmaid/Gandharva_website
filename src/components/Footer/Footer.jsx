@@ -14,7 +14,7 @@ function Footer() {
       </div>
       <div className="socials">
         <a href="https://mobile.twitter.com/gandharvaviit">
-          <Icon className="social" icon="ph:twitter-logo" />
+          <Icon className="social" icon="mdi:twitter" />
         </a>
         <a href="https://www.instagram.com/gandharva_viit/?igshid=Y">
           <Icon className="social" icon="ph:instagram-logo" />
