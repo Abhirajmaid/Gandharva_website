@@ -63,7 +63,7 @@ const SingleEvent = () => {
           <div className="event_reg_1">
             <div className="reg_sec">
               <span>Entry Fee :</span>
-              <p>Rs. {event.EntryFee}/peron</p>
+              <p>Rs. {event.EntryFee}/-</p>
             </div>
             <div className="reg_sec" style={{ height: "90px" }}>
               {/* <Link className="reg_link" to={`/event/reg/${event.id}`}>
