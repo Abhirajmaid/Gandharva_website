@@ -3,7 +3,7 @@ import default_banner from "../images/gandharva_landscape.png"
 const EventsData = [
   {
     id: "0",
-    EventName: "Valorent",
+    EventName: "Valorant",
     EventPoster:
     default_poster,
     EventBanner:
@@ -52,93 +52,95 @@ const EventsData = [
     Dept: "EnTC",
     EntryFee: "50",
   },
+  
   {
     id: "3",
-    EventName: "What The Hack(WTH)",
+    EventName: "ADD CAD",
     EventPoster:
     default_poster,
     EventBanner:
     default_banner,
     Description:
-      "Cyber Workshop, Talk",
-    EventHost: "Jay Subhedar (+9198601 9204)",
-    Date: "21-02-2023",
-    DateWord: "Tue, Feb 21",
+      "ADD CAD will be a event in which the participants will be tested for their knowledge in AutoCad Software And Also their knowledge in Building Planning.  It will be conducted in 3 Rounds Respectively Round 1 :- MCQs Test For their Knowledge Related To AUTOCAD (30 - 45 mins) Round 2 :- It Will Be a Round Testing the participants proficiency in the Software (45 mins) Round 3 :- Will Consist of Planning a Building (1Hr 15Mins)  Event Duration: 5 Hrs " ,
+    EventHost: "Rachita Munot (+918080362147)",
+    Date: " 20-02-2023",
+    DateWord: "Mon , Feb 20 ",
     Time: "",
-    Location: "B-104, Seminar hall",
-    Dept: "CS",
-    EntryFee: "50",
+    Location: "D-001 & D-108, D-Building, VIIT, Pune ",
+    Dept: "CIVIL",
+    EntryFee: "100",
   },
+
   {
     id: "4",
-    EventName: "Fix and Find",
+    EventName: "Fix and Find (Team)",
     EventPoster:
     default_poster,
     EventBanner:
     default_banner,
     Description:
-      "This event will not only test your coding abilities but also your physical fitness. The task is to run codes and burn calories in real life, to obtain clues and progress to the next level. Teams must run around campus looking for clues that contain a code which they must solve/correct. This will be done in three rounds, and your logical, error-solving and DSA skills will be tested. Let’s see who can code and run their way to the top!",
+      "This event will not only test your coding abilities but also your physical fitness. The task is to run codes and burn calories in real life, to obtain clues and progress to the next level. Teams must run around campus looking for clues that contain a code which they must solve/correct. This will be done in three rounds, and your logical, error-solving and DSA skills will be tested. Let’s see who can code and run their way to the top! Entry Fee is Rs.200/Team. Prize Money: 1st: 3500/- & 2nd: 2500/-",
     EventHost: "Shardul Khandebharad: (+919829704334) Kalpak Nemade: (+917350103025)",
     Date: "21-02-2023",
     DateWord: "Tue, Feb 21",
     Time: "13:00 - 17:00",
     Location: "301, D-building, VIIT ",
-    Dept: "AIDS",
-    EntryFee: "50",
+    Dept: "AI&DS",
+    EntryFee: "200",
   },
 
   {
     id: "5",
-    EventName: "Data Dash",
+    EventName: "Data Dash(Team)",
     EventPoster:
     default_poster,
     EventBanner:
     default_banner,
     Description:
-      "What makes Data Dash unique is that rather than writing the entire code, you make incremental progress and pass it onto the next contributor just like in a relay race. Team members will come ahead and contribute to the visualizations one by one ,with the final person creating a creative and appealing dashboard. However, knowledge transfer is critical to success. Can you race your way to victory?",
+      "What makes Data Dash unique is that rather than writing the entire code, you make incremental progress and pass it onto the next contributor just like in a relay race. Team members will come ahead and contribute to the visualizations one by one ,with the final person creating a creative and appealing dashboard. However, knowledge transfer is critical to success. Can you race your way to victory? Entry Fee is Rs.200/Team. Prize Money: 1st:5000/- & 2nd:3000/-",
     EventHost: "Shruti Jadhav: (+91 7030057089), Noopur Phadke:(+91 7498819779)",
     Date: "20-02-2023",
     DateWord: "Mon, Feb 20",
     Time: "14:00 - 15:30",
     Location: "D-301,D Building,VIIT",
-    Dept: "AIDS",
-    EntryFee: "50",
+    Dept: "AI&DS",
+    EntryFee: "200",
   },
 
   {
     id: "6",
-    EventName: "Fun Zone",
+    EventName: "Fun Zone(Individual)",
     EventPoster:
     default_poster,
     EventBanner:
     default_banner,
     Description:
-      "As the name suggests, this event is going to be one of the most fun and exciting one.Fun zone has total 6 amazing games namely: a)Shrink the Circle: Huge circle will be drawn and participants will be placed inside that circle ,we will give some tasks to them and we will eliminate them if they failed to do so, we will shrink the circle simultaneously  and when very few people are left ,we will play RST game. RST game is the quick game in which we will ask them to start with any word which will not contain R or S or T and next person should speak a word which was related to previous one. b)Gun Wars: Participants will be provided with water guns and their body will be covered with paper sheets, when the game begins ,participants will shoot each other with water guns and if their paper sheet gets wet and torn out  then they will be eliminated. c)X/O: One frame will be created and it will be covered with nets. Participants will be marked X and O .If the same team participants are able to go through that frame in a sequential way (XXX or OOO) then that team wins that game. d)Retro Games:(Entire day) Our old retro games will be installed on some of the laptops and we will create a competition on the Clash Royal game and other games will be random fun game. i.(Clash Royal) -Flagship, ii.Crazy taxi, iii.pocket tank, iv.Road rash, v.Angry Birds. e) RC rocket league: In this game, we will make a football ground with two goal posts. There will be 2 teams playing against each other. Here instead of people, Remote Control Cars will play football and the team who bags maximum goals in the given time, wins the game.",
+      "As the name suggests, this event is going to be one of the most fun and exciting one.Fun zone has total 6 amazing games namely: a)Shrink the Circle: Huge circle will be drawn and participants will be placed inside that circle ,we will give some tasks to them and we will eliminate them if they failed to do so, we will shrink the circle simultaneously  and when very few people are left ,we will play RST game. RST game is the quick game in which we will ask them to start with any word which will not contain R or S or T and next person should speak a word which was related to previous one. b)Gun Wars: Participants will be provided with water guns and their body will be covered with paper sheets, when the game begins ,participants will shoot each other with water guns and if their paper sheet gets wet and torn out  then they will be eliminated. c)X/O: One frame will be created and it will be covered with nets. Participants will be marked X and O .If the same team participants are able to go through that frame in a sequential way (XXX or OOO) then that team wins that game. d)Retro Games:(Entire day) Our old retro games will be installed on some of the laptops and we will create a competition on the Clash Royal game and other games will be random fun game. i.(Clash Royal) -Flagship, ii.Crazy taxi, iii.pocket tank, iv.Road rash, v.Angry Birds. e) RC rocket league: In this game, we will make a football ground with two goal posts. There will be 2 teams playing against each other. Here instead of people, Remote Control Cars will play football and the team who bags maximum goals in the given time, wins the game. Entry Fee is Rs.100/Person. Prize Worth Rs.8000/-",
     EventHost: "Atharva Jadhav: (+91 9763390976), Sahil Soujani (+91 9822713136)",
     Date: "",
     DateWord: "",
     Time: "",
     Location: "301, D Building, VIIT",
-    Dept: "AIDS",
-    EntryFee: "",
+    Dept: "AI&DS",
+    EntryFee: "100",
   },
 
   {
     id: "7",
-    EventName: "Snap the Snippet",
+    EventName: "Snap the Snippet(Individual)",
     EventPoster:
     default_poster,
     EventBanner:
     default_banner,
     Description:
-      "This event will test the critical thinking abilities and your understanding of solving problem statements through programming. There will be 4 rounds each of 5 mins where participants individually will be challenged with a Pseudo Code and they have to identify the problem statement from the same. As soon as the participant cracks the pseudo code, they will hit the buzzer. Winners will be decided by the accuracy of the answer and the time taken" ,
-    EventHost: "",
+      "This event will test the critical thinking abilities and your understanding of solving problem statements through programming. There will be 4 rounds each of 5 mins where participants individually will be challenged with a Pseudo Code and they have to identify the problem statement from the same. As soon as the participant cracks the pseudo code, they will hit the buzzer. Winners will be decided by the accuracy of the answer and the time taken. Entry Fee is Rs.100/Person.  Prize Money: 1st:3000/- & 2nd:2000/-" ,
+    EventHost: "Ruchika Taware (+918888844659 Shreya Patil (+919730836615))",
     Date: "21-02-2023",
     DateWord: "Tue, Feb 21",
     Time: "11:00-12:00 & 14:00-15:00",
-    Location: "D-301",
-    Dept: "AIDS",
-    EntryFee: "",
+    Location: "D-301,D Building VIIT",
+    Dept: "AI&DS",
+    EntryFee: "100",
   },
 
   {
@@ -185,8 +187,8 @@ const EventsData = [
     EventBanner:
     default_banner,
     Description:
-      "RC racing is an event in which the participants have to compete for with each other using RC cars. RC-car provided by the organizer can be used in the race. It is Off-road racing competition; it means race is conducted over Farmland or red soil road with a lot of obstacles. Race is conducted in knock-out format with 2 Phases. Participant who will complete laps in least time will be considered as winner." ,
-    EventHost: " Atharva Kondhare:(+918793083652)",
+      "RC racing is an event in which the participants have to compete for with each other using RC cars. RC-car provided by the organizer can be used in the race. It is Off-road racing competition; it means race is conducted over ground or red soil road with a lot of obstacles. Race is conducted in knock-out format with 2 Phases. Participant who will complete laps in least time will be considered as winner." ,
+    EventHost: " Sandesh Pawar:(+91785559713)",
     Date: "20-02-2023",
     DateWord: "Mon, Feb 20",
     Time: "10:00-12:00 & 14:00-15:00",
@@ -204,7 +206,7 @@ const EventsData = [
     default_banner,
     Description:
       "VIIT AUCTION HOUSE is a mini auction which represents an actual replica of an IPL auction event. Here you will have to bid for cricket players and form a team of 7 players.(2 batsmen, 3 bowlers, 1 wicketkeeper, 1 all-rounder) Based on the stats (of players) , You must bid with the intent to buy and enjoy with your fellow participants. The team with maximum points will be declared as the winner. *The team should be group of 3-4 members. *From these 7 players, assign 1 as a captain who will be getting 2x points. *After every list of players, there will be a 15 min break in which each team will get to know about their remaining balance and number of assets they bought." ,
-    EventHost: "Rushikesh Akhare (+917305056268)",
+    EventHost: "Atharv Khanzode (+917305056268)",
     Date: "21-02-2023",
     DateWord: "Tue, Feb 21",
     Time: "11:00AM",
@@ -222,7 +224,7 @@ const EventsData = [
     default_banner,
     Description:
       "Water Rocket Challenge is one of the very exciting Technical events of Gandharva. Teams design and build a water rocket within the specified dimensions, robust enough to withstand the pressure and when launched from the launch pad, it achieves the maximum altitude above ground level. The team with the maximum air time will be nominated as the winner." ,
-    EventHost: "",
+    EventHost: "Rushikesh Akhare(+917305056268)",
     Date: "20-02-2023",
     DateWord: "Mon, Feb 20",
     Time: "15:00",
@@ -258,7 +260,7 @@ const EventsData = [
     default_banner,
     Description:
       "The event will be conducted in two pools containing two rounds in each pool.The team will be of two members each. *Pool 1: This pool will consist of participants of 3rd year. Round 1: This round will consist of OS and DBMS MCQ questions with 1 or 2 coding questions. There will be 10 questions on each topic. Duration: 45 min-1hr. Round 2: Final round - The qualified teams of round 1 will move to round 2 which will be a coding contest. This round will consist of 3/4 coding questions and these questions need to be completed in duration of 1:15 hours.*Pool 2 :This pool will consist of participants from first and second year.Round 1: Elimination round - This round will have MCQ questions on C++ and Java. There will be 10 MCQ questionn on each topic that need to be completed in duration of 45 min to 1 hour Round 2: Final round - The qualified teams of round 1 will move to round 2 which will be a coding contest. This round will consist of 3/4 coding questions that need to be completed in duration of 1:15 hours." ,
-    EventHost: "Sakshi Jaju (+917588119072)",
+    EventHost: "Aman Deshpande (+918956393974)",
     Date: "To be announced",
     DateWord: "To be announced",
     Time: "",
@@ -294,7 +296,7 @@ const EventsData = [
     default_banner,
     Description:
       "*Round 1:5-10 teams will compete with each other.One leg of each member would be tied to that of the other. Top 3 teams to reach the finish line would qualify for round 2. Music will be played and teams will move. As soon as music stops players have to stop else they are out. *Round 2: (Team vs Team) In this round we have games played between teams. 1 team will proceed to round 3 by the end of the game. Games in round2: 1) Pick up Line- Both teams will be given 2 mins to prepare a pick up line and then they have to present it. 2) Team Pen fight- Total 8 pens will be on table. The team whose pen lasts on the table wins. 3) Blind fold- One member will be given a stick, the other will guide him to hit the target. (Time based evaluation) 4) Paper fold dance- Team members dance on a paper and after each turn we will fold the paper. The team on touching the ground will be eliminated. 5) Hit the Cup- Each member from the team get one chance to hit. Each cup carries one point. Total cups falling will be the total points of that team. 6) Round Race Relay - Each member has to rotate 10 times and then hand over the baton to the next member. Team that touches the finish line wins. 7) Burst the Balloon - 1st member fills Balloons with air, 2nd member ties it, 3rd places it on a chair and 4th sits on it and bursts it. Teams which burst maximum number balloons in 5 mins wins. 8) Build a glass pyramid - There will be 10 glasses on the table. One member fills a glass with water, two members drink it and the last member builds a pyramid. Pyramid bottom layer - 4 glasses, 2nd layer- 3 glasses, 1st layer- 2 glasses and so on. *Round 3: (Ball/Balloon Race) 4 members and three balloons or balls between them. They have to complete the race without bursting the balloon and without letting it fall down." ,
-    EventHost: "Sakshi Jaju (+917588119072)",
+    EventHost: "Tejas Jadhav (+918308840161)",
     Date: "To be announced",
     DateWord: "To be announced",
     Time: "",
@@ -330,7 +332,7 @@ const EventsData = [
     default_banner,
     Description:
       "LEGO TECH is an event where teams have to build a car using Lego. Teams have to find Legos in the first round, a treasure hunt. The treasure hunt will consist of 3 sub-rounds, where each team will have to find the Legos using the clues and codes provided to them. Teams have to build cars within their allotted time. The team with the maximum points will be declared the winner. - The team should be a group of 4 members only. - Each team will have 30 minutes to build the cars using the Lego kit. - All the team members should be present at the allotted time. Prize money: 1st = 3000/- and 2nd = 2000/-" ,
-    EventHost: "Samiksha Sonawane",
+    EventHost: "Samiksha Sonawane (+919011820673)",
     Date: " 21-02-2023",
     DateWord: "Mon, Feb 21",
     Time: "11:00 AM to 04:00 PM",
@@ -411,25 +413,25 @@ const EventsData = [
     EntryFee: "100",
   },
 
+  
+
   {
     id: "23",
-    EventName: "ADD CAD",
+    EventName: "What The Hack(WTH)",
     EventPoster:
     default_poster,
     EventBanner:
     default_banner,
     Description:
-      "ADD CAD will be a event in which the participants will be tested for their knowledge in AutoCad Software And Also their knowledge in Building Planning.  It will be conducted in 3 Rounds Respectively Round 1 :- MCQs Test For their Knowledge Related To AUTOCAD (30 - 45 mins) Round 2 :- It Will Be a Round Testing the participants proficiency in the Software (45 mins) Round 3 :- Will Consist of Planning a Building (1Hr 15Mins)  Event Duration: 5 Hrs " ,
-    EventHost: "Rachita Munot (+918080362147)",
-    Date: " 20-02-2023",
-    DateWord: "Mon , Feb 20 ",
+      "Cyber Workshop, Talk",
+    EventHost: "Jay Subhedar (+9198601 9204)",
+    Date: "21-02-2023",
+    DateWord: "Tue, Feb 21",
     Time: "",
-    Location: "D-001 & D-108, D-Building, VIIT, Pune ",
-    Dept: "CIVIL",
-    EntryFee: "100",
+    Location: "B-104, Seminar hall",
+    Dept: "CS",
+    EntryFee: "50",
   },
-
-
 
 ];
 
