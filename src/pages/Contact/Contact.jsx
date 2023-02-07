@@ -27,8 +27,8 @@ const Contact = () => {
                   <a href={contact.Insta} target="_blank" rel="noreferrer">
                     <Icon className="cont_social" icon="ph:instagram-logo" />
                   </a>
-                  <a href={contact.Whatsapp} target="_blank" rel="noreferrer">
-                    <Icon className="cont_social" icon="ic:baseline-whatsapp" />
+                  <a href={contact.Linkedin} target="_blank" rel="noreferrer">
+                    <Icon className="cont_social" icon="il:linkedin" />
                   </a>
                   <a
                     href={`mailto:${contact.Email}`}

@@ -4,6 +4,7 @@ import avishkar from "../images/team/Avishkar_Professional.JPG"
 import omkar from "../images/team/omkar.jpg"
 import sanket from "../images/team/Sanket.jpg"
 import shreyas from "../images/team/Shreyash_Nalawade.jpeg"
+import sandhya from "../images/team/Sandhya.jpeg"
 
 const ContactData = [
   {
@@ -11,27 +12,36 @@ const ContactData = [
     Name: "Abhiraj Maid",
     Profile:
       abhiraj,
-    // Insta: "https://instagram.com/abhirajmaid",
-    // Email: "abhirajmaid050@gmail.com",
-    // Whatsapp: "https://wa.me/917385302967",
+    Insta: "https://instagram.com/abhirajmaid",
+    Email: "abhirajmaid050@gmail.com",
+    Linkedin: "https://www.linkedin.com/in/abhiraj-maid-42a381217/",
   },
   {
     id: "3",
     Name: "Maruf Khan",
     Profile:
       maruf,
-    // Insta: "https://instagram.com/abhirajmaid",
+    Insta: "https://instagram.com/maruf16khan?igshid=YmMyMTA2M2Y=",
     // Email: "abhirajmaid050@gmail.com",
-    // Whatsapp: "https://wa.me/917385302967",
+    // Linkedin: "https://wa.me/917385302967",
   },
   {
     id: "2",
     Name: "Omkar Khade",
     Profile:
       omkar,
-    // Insta: "https://instagram.com/abhirajmaid",
-    // Email: "abhirajmaid050@gmail.com",
-    // Whatsapp: "https://wa.me/917385302967",
+    Insta: "https://instagram.com/khadeomkar7?igshid=YmMyMTA2M2Y=",
+    Email: "omkar.22110174@viit.ac.in",
+    Linkedin: "https://www.linkedin.com/in/omkarkhade/",
+  },
+  {
+    id: "7",
+    Name: "Sandhya Shevatre",
+    Profile:
+    sandhya,
+    Insta: "https://instagram.com/swarajika_143?igshid=YmMyMTA2M2Y=",
+    Email: "Sandhya.22020112@viit.ac.in",
+    Linkedin: "https://www.linkedin.com/in/sandhya-shevatre-290397207",
   },
   {
     id: "4",
@@ -40,7 +50,7 @@ const ContactData = [
       avishkar,
     // Insta: "https://instagram.com/abhirajmaid",
     // Email: "abhirajmaid050@gmail.com",
-    // Whatsapp: "https://wa.me/917385302967",
+    // Linkedin: "https://wa.me/917385302967",
   },
 
   {
@@ -50,7 +60,7 @@ const ContactData = [
       shreyas,
     // Insta: "https://instagram.com/abhirajmaid",
     // Email: "abhirajmaid050@gmail.com",
-    // Whatsapp: "https://wa.me/917385302967",
+    // Linkedin: "https://wa.me/917385302967",
   },
 
   {
@@ -60,7 +70,7 @@ const ContactData = [
       sanket,
     // Insta: "https://instagram.com/abhirajmaid",
     // Email: "abhirajmaid050@gmail.com",
-    // Whatsapp: "https://wa.me/917385302967",
+    // Linkedin: "https://wa.me/917385302967",
   },
 ];
 
