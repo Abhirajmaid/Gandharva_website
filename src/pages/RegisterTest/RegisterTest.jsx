@@ -66,7 +66,7 @@ const RegisterTest = () => {
       // } else if (regex.test(email) === false) {
       //   setError("Please enter correct Email!");
       setTimeout(() => {
-        window.location.href = "https://learner.vierp.in/event";
+        window.location.href = "https://learner.vierp.in/";
       }, 3000);
     } else {
       setError(true);
