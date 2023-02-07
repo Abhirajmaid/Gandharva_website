@@ -229,7 +229,11 @@
     text-align: center;
     margin: auto
 }
-
+.gst{
+    font-size: 10px;
+    font-weight: normal;
+    text-align: center;
+}
 @media screen and (max-width:480px) {
     .event_banner {
         height: 350px;

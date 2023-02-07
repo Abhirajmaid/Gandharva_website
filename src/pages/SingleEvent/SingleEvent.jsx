@@ -56,6 +56,7 @@ const SingleEvent = () => {
               <button>Register Now</button>
             </Link>
           </div>
+          <span className="gst">*GST applicable for external students</span>
         </div>
       </div>
       <div className="page_container">
@@ -73,6 +74,7 @@ const SingleEvent = () => {
                 <button>Register Now</button>
               </Link>
             </div>
+              <p className="gst">*GST applicable for external students</p>
           </div>
           <div className="info_container">
             <div className="info_section">
