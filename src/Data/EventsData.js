@@ -188,7 +188,7 @@ const EventsData = [
     default_banner,
     Description:
       "RC racing is an event in which the participants have to compete for with each other using RC cars. RC-car provided by the organizer can be used in the race. It is Off-road racing competition; it means race is conducted over ground or red soil road with a lot of obstacles. Race is conducted in knock-out format with 2 Phases. Participant who will complete laps in least time will be considered as winner." ,
-    EventHost: " Sandesh Pawar:(+91785559713)",
+    EventHost: " Sandesh Pawar:(+917385559713)",
     Date: "20-02-2023",
     DateWord: "Mon, Feb 20",
     Time: "10:00-12:00 & 14:00-15:00",
