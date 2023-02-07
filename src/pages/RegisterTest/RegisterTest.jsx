@@ -66,7 +66,7 @@ const RegisterTest = () => {
       // } else if (regex.test(email) === false) {
       //   setError("Please enter correct Email!");
       setTimeout(() => {
-        window.location.href = "https://learner.vierp.in/";
+        window.location.href = "https://learner.vierp.in/event";
       }, 3000);
     } else {
       setError(true);
@@ -82,7 +82,7 @@ const RegisterTest = () => {
         }}
       />
       <div className="auth">
-        <h1>Registration Form</h1>
+        <h1>Registration here </h1>
         <form>
           <input
             required
