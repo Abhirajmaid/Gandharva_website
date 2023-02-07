@@ -29,7 +29,7 @@ const Participate = () => {
 
         <div className="pItem">
           <div className="pCircle">
-            <Icon />
+          <Icon className="pIcon" icon="heroicons:user-group-solid" />
           </div>
           <div className="pText">
             Fests provide a platform for students to showcase one’s unique

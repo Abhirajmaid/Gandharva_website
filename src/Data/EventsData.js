@@ -55,7 +55,7 @@ const EventsData = [
   
   {
     id: "3",
-    EventName: "ADD CAD",
+    EventName: "ADD CAD (Both)",
     EventPoster:
     default_poster,
     EventBanner:
@@ -79,7 +79,7 @@ const EventsData = [
     EventBanner:
     default_banner,
     Description:
-      "This event will not only test your coding abilities but also your physical fitness. The task is to run codes and burn calories in real life, to obtain clues and progress to the next level. Teams must run around campus looking for clues that contain a code which they must solve/correct. This will be done in three rounds, and your logical, error-solving and DSA skills will be tested. Let’s see who can code and run their way to the top! Entry Fee is Rs.200/Team. Prize Money: 1st: 3500/- & 2nd: 2500/-",
+      "This event will not only test your coding abilities but also your physical fitness. The task is to run codes and burn calories in real life, to obtain clues and progress to the next level. Teams must run around campus looking for clues that contain a code which they must solve/correct. This will be done in three rounds, and your logical, error-solving and DSA skills will be tested. Let’s see who can code and run their way to the top! Entry Fee is Rs.200/Team.",
     EventHost: "Shardul Khandebharad: (+919829704334) Kalpak Nemade: (+917350103025)",
     Date: "21-02-2023",
     DateWord: "Tue, Feb 21",
@@ -97,7 +97,7 @@ const EventsData = [
     EventBanner:
     default_banner,
     Description:
-      "What makes Data Dash unique is that rather than writing the entire code, you make incremental progress and pass it onto the next contributor just like in a relay race. Team members will come ahead and contribute to the visualizations one by one ,with the final person creating a creative and appealing dashboard. However, knowledge transfer is critical to success. Can you race your way to victory? Entry Fee is Rs.200/Team. Prize Money: 1st:5000/- & 2nd:3000/-",
+      "What makes Data Dash unique is that rather than writing the entire code, you make incremental progress and pass it onto the next contributor just like in a relay race. Team members will come ahead and contribute to the visualizations one by one ,with the final person creating a creative and appealing dashboard. However, knowledge transfer is critical to success. Can you race your way to victory? Entry Fee is Rs.200/Team.",
     EventHost: "Shruti Jadhav: (+91 7030057089), Noopur Phadke:(+91 7498819779)",
     Date: "20-02-2023",
     DateWord: "Mon, Feb 20",
@@ -133,7 +133,7 @@ const EventsData = [
     EventBanner:
     default_banner,
     Description:
-      "This event will test the critical thinking abilities and your understanding of solving problem statements through programming. There will be 4 rounds each of 5 mins where participants individually will be challenged with a Pseudo Code and they have to identify the problem statement from the same. As soon as the participant cracks the pseudo code, they will hit the buzzer. Winners will be decided by the accuracy of the answer and the time taken. Entry Fee is Rs.100/Person.  Prize Money: 1st:3000/- & 2nd:2000/-" ,
+      "This event will test the critical thinking abilities and your understanding of solving problem statements through programming. There will be 4 rounds each of 5 mins where participants individually will be challenged with a Pseudo Code and they have to identify the problem statement from the same. As soon as the participant cracks the pseudo code, they will hit the buzzer. Winners will be decided by the accuracy of the answer and the time taken. Entry Fee is Rs.100/Person. " ,
     EventHost: "Ruchika Taware (+918888844659 Shreya Patil (+919730836615))",
     Date: "21-02-2023",
     DateWord: "Tue, Feb 21",
@@ -145,7 +145,7 @@ const EventsData = [
 
   {
     id: "8",
-    EventName: "War of Words",
+    EventName: "War of Words(Both)",
     EventPoster:
     default_poster,
     EventBanner:
@@ -163,7 +163,7 @@ const EventsData = [
 
   {
     id: "9",
-    EventName: "Interlock",
+    EventName: "Interlock (Team)",
     EventPoster:
     default_poster,
     EventBanner:
@@ -176,7 +176,7 @@ const EventsData = [
     Time: "",
     Location: "B Building Labs, VIIT",
     Dept: "CS",
-    EntryFee: "",
+    EntryFee: "100",
   },
 
   {
@@ -343,7 +343,7 @@ const EventsData = [
 
   {
     id: "19",
-    EventName: "The Stats Say…",
+    EventName: "The Stats Say…(Team)",
     EventPoster:
     default_poster,
     EventBanner:
@@ -361,7 +361,7 @@ const EventsData = [
 
   {
     id: "20",
-    EventName: "A Day Of Solutions",
+    EventName: "A Day Of Solutions (Both)",
     EventPoster:
     default_poster,
     EventBanner:
@@ -379,7 +379,7 @@ const EventsData = [
 
   {
     id: "21",
-    EventName: "BridgeIT",
+    EventName: "BridgeIT (Team)",
     EventPoster:
     default_poster,
     EventBanner:
@@ -417,7 +417,7 @@ const EventsData = [
 
   {
     id: "23",
-    EventName: "What The Hack(WTH)",
+    EventName: "What The Hack (Workshop)",
     EventPoster:
     default_poster,
     EventBanner:
