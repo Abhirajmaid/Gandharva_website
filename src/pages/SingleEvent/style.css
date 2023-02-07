@@ -221,6 +221,15 @@
     text-align: center;
 }
 
+.noVierp {
+    color: red;
+}
+
+.noVierp, .payNow {
+    text-align: center;
+    margin: auto
+}
+
 @media screen and (max-width:480px) {
     .event_banner {
         height: 350px;
