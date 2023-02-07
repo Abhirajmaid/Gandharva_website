@@ -19,7 +19,7 @@ const Participate = () => {
 
         <div className="pItem">
           <div className="pCircle">
-            <Icon />
+            <Icon className="pIcon" icon="heroicons:user-group-solid" />
           </div>
           <div className="pText">
             It helps to boost confidence, enhance students knowledge while

@@ -21,8 +21,8 @@ const Sponsors = () => {
             <div className="item">
               <img src={webfudge} alt="" />
             </div>
-            <div className="item"></div>
-            <div className="item"></div>
+            {/* <div className="item"></div>
+            <div className="item"></div> */}
           </div>
         </div>
         {/* <div className="sSec">

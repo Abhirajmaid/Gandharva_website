@@ -3,7 +3,7 @@ import default_banner from "../images/gandharva_landscape.png"
 const EventsData = [
   {
     id: "0",
-    EventName: "Valorant",
+    EventName: "Valorant(Team)",
     EventPoster:
     default_poster,
     EventBanner:
@@ -20,7 +20,7 @@ const EventsData = [
 
   {
     id: "1",
-    EventName: "Pseudo Search",
+    EventName: "Pseudo Search (Team)",
     EventPoster:
     default_poster,
     EventBanner:
@@ -37,7 +37,7 @@ const EventsData = [
   },
   {
     id: "2",
-    EventName: "Debug Thugs",
+    EventName: "Debug Thugs(Individual)",
     EventPoster:
     default_poster,
     EventBanner:
@@ -181,7 +181,7 @@ const EventsData = [
 
   {
     id: "10",
-    EventName: "RC Racing Competition",
+    EventName: "RC Racing Compt.(Individual)",
     EventPoster:
     default_poster,
     EventBanner:
@@ -199,7 +199,7 @@ const EventsData = [
 
   {
     id: "11",
-    EventName: "VIIT Auction House",
+    EventName: "VIIT Auction House (Team)",
     EventPoster:
     default_poster,
     EventBanner:
@@ -217,7 +217,7 @@ const EventsData = [
 
   {
     id: "12",
-    EventName: "Water Rocket",
+    EventName: "Water Rocket (Team)",
     EventPoster:
     default_poster,
     EventBanner:
@@ -235,7 +235,7 @@ const EventsData = [
 
   {
     id: "13",
-    EventName: "Code Pad",
+    EventName: "Code Pad (Individual)",
     EventPoster:
     default_poster,
     EventBanner:
@@ -253,7 +253,7 @@ const EventsData = [
 
   {
     id: "14",
-    EventName: "The Tag Team Mania",
+    EventName: "The Tag Team Mania (Team)",
     EventPoster:
     default_poster,
     EventBanner:
@@ -271,7 +271,7 @@ const EventsData = [
 
   {
     id: "15",
-    EventName: "Dive in Design",
+    EventName: "Dive in Design (Team)",
     EventPoster:
     default_poster,
     EventBanner:
@@ -289,7 +289,7 @@ const EventsData = [
 
   {
     id: "16",
-    EventName: "Squid Game",
+    EventName: "Squid Game (Team)",
     EventPoster:
     default_poster,
     EventBanner:
@@ -307,7 +307,7 @@ const EventsData = [
 
   {
     id: "17",
-    EventName: "Robo Race",
+    EventName: "Robo Race (Team)",
     EventPoster:
     default_poster,
     EventBanner:
@@ -325,7 +325,7 @@ const EventsData = [
 
   {
     id: "18",
-    EventName: "LEGO TECH",
+    EventName: "LEGO TECH (Team)",
     EventPoster:
     default_poster,
     EventBanner:
