@@ -28,9 +28,9 @@ const Home = () => {
           {/* <div className="event_sch">
             <EventSch />
           </div> */}
-          <div className="sponsor_sec">
+          {/* <div className="sponsor_sec">
             <Sponsors />
-          </div>
+          </div> */}
         </div>
       </div>
     </>

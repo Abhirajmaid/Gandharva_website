@@ -110,11 +110,17 @@ const RegisterTest = () => {
             name="img"
             accept="image/png, image/jpeg"
           /> */}
-          <button className="payNow" type="submit" onClick={(e) => handleSubmit(e)}>
+          <button
+            className="payNow"
+            type="submit"
+            onClick={(e) => handleSubmit(e)}
+          >
             Pay Now
           </button>
           <div type="submit" className="noVierp">
-            <a href="https://forms.gle/h6tYNFdDEiFK6WzV6" target="_blank">If you don't have VIERP account, click here</a>
+            <a href="https://forms.gle/h6tYNFdDEiFK6WzV6" target="_blank">
+              Non VIIT student register here!
+            </a>
           </div>
           {error && <p>Fill all fields above!</p>}
         </form>
