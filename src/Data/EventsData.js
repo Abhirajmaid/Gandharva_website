@@ -73,7 +73,7 @@ const EventsData = [
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description:
-      "This event will not only test your coding abilities but also your physical fitness. The task is to run codes and burn calories in real life, to obtain clues and progress to the next level. Teams must run around campus looking for clues that contain a code which they must solve/correct. This will be done in three rounds, and your logical, error-solving and DSA skills will be tested. Let’s see who can code and run their way to the top! Entry Fee is Rs.200/Team.",
+      <div>This event will not only test your coding abilities but also your physical fitness. The task is to run codes and burn calories in real life, to obtain clues and progress to the next level. Teams must run around campus looking for clues that contain a code which they must solve/correct. This will be done in three rounds, and your logical, error-solving and DSA skills will be tested. Let’s see who can code and run their way to the top! <br/><br/> - Entry Fee is Rs.200/Team.</div>,
     EventHost:
       "Shardul Khandebharad: (+919829704334) Kalpak Nemade: (+917350103025)",
     Date: "21-02-2023",
@@ -90,7 +90,7 @@ const EventsData = [
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description:
-      "What makes Data Dash unique is that rather than writing the entire code, you make incremental progress and pass it onto the next contributor just like in a relay race. Team members will come ahead and contribute to the visualizations one by one ,with the final person creating a creative and appealing dashboard. However, knowledge transfer is critical to success. Can you race your way to victory? Entry Fee is Rs.200/Team.",
+      <div>What makes Data Dash unique is that rather than writing the entire code, you make incremental progress and pass it onto the next contributor just like in a relay race. Team members will come ahead and contribute to the visualizations one by one ,with the final person creating a creative and appealing dashboard. However, knowledge transfer is critical to success.<br/> Can you race your way to victory? <br/><br/>- Entry Fee is Rs.200/Team.</div>,
     EventHost:
       "Shruti Jadhav: (+91 7030057089), Noopur Phadke:(+91 7498819779)",
     Date: "20-02-2023",
@@ -124,7 +124,7 @@ const EventsData = [
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description:
-      "This event will test the critical thinking abilities and your understanding of solving problem statements through programming. There will be 4 rounds each of 5 mins where participants individually will be challenged with a Pseudo Code and they have to identify the problem statement from the same. As soon as the participant cracks the pseudo code, they will hit the buzzer. Winners will be decided by the accuracy of the answer and the time taken. Entry Fee is Rs.100/Person. ",
+      <div>This event will test the critical thinking abilities and your understanding of solving problem statements through programming. There will be 4 rounds each of 5 mins where participants individually will be challenged with a Pseudo Code and they have to identify the problem statement from the same. As soon as the participant cracks the pseudo code, they will hit the buzzer. Winners will be decided by the accuracy of the answer and the time taken. <br/><br/> - Entry Fee is Rs.100/Person. </div>,
     EventHost: "Ruchika Taware (+918888844659 Shreya Patil (+919730836615))",
     Date: "21-02-2023",
     DateWord: "Tue, Feb 21",
