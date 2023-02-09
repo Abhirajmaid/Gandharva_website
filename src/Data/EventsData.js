@@ -61,7 +61,7 @@ const EventsData = [
     Time: "",
     Location: "D-001 & D-108, D-Building, VIIT, Pune ",
     Dept: "CIVIL",
-    EntryFee: "100",
+    EntryFee: "50",
   },
 
   {
@@ -217,7 +217,7 @@ const EventsData = [
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description:
-      "Code Pad will be an offline debugging challenge. The participants will be given sheets of paper with C++ code written on it, which the participants will have to debug. Participants have to mark and correct syntactical and other errors in the program that might occur at compile time or run time. The participants will be given a limited amount of time for this activity. Top 2 participants who have detected and corrected the highest number of errors will be selected as the winners Prize: 1st:- 3000/- & 2nd : 2000/-",
+      "Code Pad will be an offline debugging challenge. The participants will be given sheets of paper with C++ code written on it, which the participants will have to debug. Participants have to mark and correct syntactical and other errors in the program that might occur at compile time or run time. The participants will be given a limited amount of time for this activity. Top 2 participants who have detected and corrected the highest number of errors will be selected as the winners.",
     EventHost: "Pranav Andhale (+919011685970) Akash Gulge (+9172182 21823)",
     Date: "To be Announceed",
     DateWord: "To be Announceed",
@@ -265,7 +265,7 @@ const EventsData = [
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description:
-      "*Round 1:5-10 teams will compete with each other.One leg of each member would be tied to that of the other. Top 3 teams to reach the finish line would qualify for round 2. Music will be played and teams will move. As soon as music stops players have to stop else they are out. *Round 2: (Team vs Team) In this round we have games played between teams. 1 team will proceed to round 3 by the end of the game. Games in round2: 1) Pick up Line- Both teams will be given 2 mins to prepare a pick up line and then they have to present it. 2) Team Pen fight- Total 8 pens will be on table. The team whose pen lasts on the table wins. 3) Blind fold- One member will be given a stick, the other will guide him to hit the target. (Time based evaluation) 4) Paper fold dance- Team members dance on a paper and after each turn we will fold the paper. The team on touching the ground will be eliminated. 5) Hit the Cup- Each member from the team get one chance to hit. Each cup carries one point. Total cups falling will be the total points of that team. 6) Round Race Relay - Each member has to rotate 10 times and then hand over the baton to the next member. Team that touches the finish line wins. 7) Burst the Balloon - 1st member fills Balloons with air, 2nd member ties it, 3rd places it on a chair and 4th sits on it and bursts it. Teams which burst maximum number balloons in 5 mins wins. 8) Build a glass pyramid - There will be 10 glasses on the table. One member fills a glass with water, two members drink it and the last member builds a pyramid. Pyramid bottom layer - 4 glasses, 2nd layer- 3 glasses, 1st layer- 2 glasses and so on. *Round 3: (Ball/Balloon Race) 4 members and three balloons or balls between them. They have to complete the race without bursting the balloon and without letting it fall down.",
+      "Squid Game is theme-based team competition with lots of fun activities. It will be conducted in three successive rounds followed by eliminations. Round 1 (London London Stop!):  5-10 teams would compete against each other with their legs tied. Teams that cross the finish line first would be proceeding to the next round. It’s not as simple as it sounds because teams are allowed to move only when the music’s playing once the music stops no movements. Round 2 (Team Vs Team): In this round a random game would be picked and two teams will compete for winning it. Winning team proceeds to the final round while the loosing team gets eliminated. Round 3 (Balloon Race): The final round will be a balloon race. Successive team members would have a balloon between them, and they have to reach the finish line. But the balloon must not fall or must not burst.-Team Size: 4 (Not less than or greater than 4)",
     EventHost: "Tejas Jadhav (+918308840161)",
     Date: "To be announced",
     DateWord: "To be announced",

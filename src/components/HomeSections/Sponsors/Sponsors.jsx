@@ -2,6 +2,7 @@ import React from "react";
 import "./style.css";
 import { Link } from "react-router-dom";
 import webfudge from "../../../images/1.png";
+import tba from "../../../images/TO_BE_announced.png";
 
 const Sponsors = () => {
   return (
@@ -16,13 +17,38 @@ const Sponsors = () => {
         }}
       >
         <div className="sSec">
-          {/* <h3>PLATINUM</h3> */}
-          <div className="items">
-            <div className="item">
-              <img src={webfudge} alt="" />
+          <div className="imp_spo">
+            <div className="spo_powered">
+              <h2>Powered By</h2>
+              <div className="items">
+                <div className="item">
+                  <img src={tba} alt="" />
+                </div>
+              </div>
             </div>
-            <div className="item"></div>
-            <div className="item"></div>
+            <div className="spo_present">
+              <h2>Presented By</h2>
+              <div className="items">
+                <div className="item">
+                  <img src={tba} alt="" />
+                </div>
+              </div>
+            </div>
+          </div>
+          <h3>Our Partners</h3>
+          <div className="items">
+            <div>
+              <h4 className="spo_partner">Website Partner</h4>
+              <div className="item">
+                <img src={webfudge} alt="" />
+              </div>
+            </div>
+            <div className="item">
+              <img src={tba} alt="" />
+            </div>
+            <div className="item">
+              <img src={tba} alt="" />
+            </div>
           </div>
         </div>
         {/* <div className="sSec">
