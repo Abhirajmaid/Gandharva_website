@@ -46,6 +46,7 @@
     align-items: center;
     justify-content: center;
     border-radius: 5px;
+    text-align: center;
 }
 
 .spo_partner {
@@ -134,6 +135,8 @@
     box-shadow: 0px 0px 10px rgb(255, 0, 0);
     cursor: pointer;
 }
+
+
 
 @media screen and (max-width:480px) {
     .sTitle {
