@@ -119,7 +119,7 @@ const RegisterTest = () => {
           </button>
           <div type="submit" className="noVierp">
             <a href="https://forms.gle/h6tYNFdDEiFK6WzV6" target="_blank">
-              Non VIIT student register here!
+              Non VIIT students register here!
             </a>
           </div>
           {error && <p>Fill all fields above!</p>}

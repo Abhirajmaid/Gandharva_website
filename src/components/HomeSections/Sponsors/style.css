@@ -53,11 +53,12 @@
     color: rgb(255, 255, 255);
     padding: 10px 0;
     font-size: 18px;
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
     display: flex;
+    font-weight: 600;
     align-items: center;
     justify-content: center;
-    color: black;
+    color: rgb(255, 253, 253);
 }
 
 .imp_spo {
@@ -67,9 +68,10 @@
 }
 
 .imp_spo h2 {
-    color: #ffa600;
+    color: #C0C0C0;
     margin-bottom: 10px;
-    font-size: 30px;
+    font-size: 26px;
+    font-weight: 400;
 }
 
 .spo_powered {
@@ -167,5 +169,12 @@
 
     .sSec h3::after {
         height: 7px;
+    }
+    .spo_partner{
+        font-size: 12px;
+    }
+
+    .imp_spo h2{
+        font-size: 12px;
     }
 }

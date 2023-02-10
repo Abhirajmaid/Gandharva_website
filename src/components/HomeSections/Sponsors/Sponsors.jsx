@@ -21,7 +21,7 @@ const Sponsors = () => {
         <div className="sSec">
           <div className="imp_spo">
             <div className="spo_powered">
-              <h2>Powered By</h2>
+              <h2>Powered by</h2>
               <div className="items">
                 <div className="item">
                   <img src={sanspots} alt="" />
@@ -29,7 +29,7 @@ const Sponsors = () => {
               </div>
             </div>
             <div className="spo_present">
-              <h2>Presented By</h2>
+              <h2>Presented by</h2>
               <div className="items">
                 <div className="item">
                   <img src={tba} alt="" />

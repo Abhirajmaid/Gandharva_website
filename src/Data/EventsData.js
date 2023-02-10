@@ -38,7 +38,9 @@ const EventsData = [
         A treasure hunt in which each clue will lead to a component and in the
         end, you have to assemble the component and work on the prototype model.
         <br />
-        <br /> - Register individually{" "}
+        <br /> - Register individually
+        <br />
+        -Event Duration: 4hr{" "}
       </div>
     ),
     EventHost: "Mrunal Hedau:(+919552179944)  Shreeyash Kelkar:(+919137823508)",
@@ -54,8 +56,15 @@ const EventsData = [
     EventName: "Debug Thugs(Individual)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description:
-      "We have to debug the repositories file which is being stored in github in a given time frame and the maximum bug solver will be the winner. Leaderboard will assign through max no of bug solvers.",
+    Description: (
+      <div>
+        We have to debug the repositories file which is being stored in github
+        in given time frame and maximum bug solver will be the winner.
+        Leaderboard will assign through max no of bug solver.
+        <br />
+        Event Duration: 4hr
+      </div>
+    ),
     EventHost: "Gokul B:(+917758946564)  Tejas Ugale:(+917666703180)",
     Date: "To be Announced",
     DateWord: "To be Announced",
@@ -70,8 +79,23 @@ const EventsData = [
     EventName: "ADD CAD (Both)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description:
-      "ADD CAD will be a event in which the participants will be tested for their knowledge in AutoCad Software And Also their knowledge in Building Planning.  It will be conducted in 3 Rounds Respectively Round 1 :- MCQs Test For their Knowledge Related To AUTOCAD (30 - 45 mins) Round 2 :- It Will Be a Round Testing the participants proficiency in the Software (45 mins) Round 3 :- Will Consist of Planning a Building (1Hr 15Mins)  Event Duration: 5 Hrs ",
+    Description: (
+      <div>
+        ADD CAD will be a event in which the participants will be tested for
+        their knowledge in AutoCad Software And Also their knowledge in Building
+        Planning. It will be conducted in 3 Rounds Respectively
+        <br />
+        <br />
+        A) Round 1 :- MCQs Test For their Knowledge Related To AUTOCAD (30 - 45
+        mins)
+        <br />
+        B) Round 2 :- It Will Be a Round Testing the participants proficiency in
+        the Software (45 mins)
+        <br />
+        c) Round 3 :- Will Consist of Planning a Building (1Hr 15Mins)
+        <br />- Event Duration: 5 Hrs
+      </div>
+    ),
     EventHost: "Rachita Munot (+918080362147)",
     Date: " 20-02-2023",
     DateWord: "Mon , Feb 20 ",
@@ -220,8 +244,16 @@ const EventsData = [
     EventName: "War of Words(Both)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description:
-      "The participants will be given a basic Idea of the topic not the entire topic the entire topic will be revealed during the debate Two teams will debate on the given topic for a total of 10 mins the winning team will be decided on the basis of a marking system.",
+    Description: (
+      <div>
+        The participants will be given a basic Idea of the topic not the entire
+        topic the entire topic will be revealed during the debate Two teams will
+        debate on the given topic for a total of 10 mins the winning team will
+        be decided on the basis of a marking system.
+        <br />
+        -Event Duration: Depends on the number of participants{" "}
+      </div>
+    ),
     EventHost: "Parth Bhosale:(+919284833611) Priya Chougale (+919421102099)",
     Date: "21-02-2023",
     DateWord: "Mon, Feb 21",
@@ -236,8 +268,34 @@ const EventsData = [
     EventName: "Interlock (Team)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description:
-      "Each team will be assigned 2 PCs and the team can divide the tasks  within themselves.Every PC will have 5 questions for the first round. The questions will be interlinked with each other. Solving the questions on PC 1 will unlock the questions on PC 2. After the last question will be solved, the outputs will be concatenated to get the key for the next round. First 7 teams to finish the first round will be qualified for the second round. Round 2 is similar but the difficulty level will be raised. Requirements: 1. Team of 3-4 members 2. Basic knowledge of aptitude and coding ",
+    Description: (
+      <div>
+        Each team will be assigned 2 PCs and the team can divide the tasks
+        within themselves.
+        <br />
+        Every PC will have 5 questions for the first round. The questions will
+        be interlinked with each other. Solving the questions on PC 1 will
+        unlock the questions on PC 2.
+        <br />
+        After the last question will be solved, the outputs will be concatenated
+        to get the key for the next round. First 7 teams to finish the first
+        round will be qualified for the second round.
+        <br />
+        Round 2 is similar but the difficulty level will be raised.
+        <br />
+        <br />
+        Flow : <br />
+        Round 1) 5 questions - 1 hr.
+        <br />
+        Round 2) 3 questions - 1 hr.
+        <br />
+        <br />
+        Requirements:
+        <br />
+        - Team of 3-4 members
+        <br />- Basic knowledge of aptitude and coding
+      </div>
+    ),
     EventHost: "Ayan Sayyad (+917058575810) Ansfred D'Souza (+918788944520)",
     Date: "20-02-2023",
     DateWord: "Mon, Feb 20",
@@ -249,11 +307,19 @@ const EventsData = [
 
   {
     id: "10",
-    EventName: "RC Racing Compt.(Both)",
+    EventName: "RC Racing Compt.(Team)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description:
-      "RC racing is an event in which the participants have to compete for with each other using RC cars. RC-car provided by the organizer can be used in the race. It is Off-road racing competition; it means race is conducted over ground or red soil road with a lot of obstacles. Race is conducted in knock-out format with 2 Phases. Participant who will complete laps in least time will be considered as winner.",
+    Description: (
+      <div>
+        RC racing is an event in which the participants have to compete for with
+        each other using RC cars. RC-car provided by the organizer can be used
+        in the race. It is Off-road racing competition; it means race is
+        conducted over ground or red soil road with a lot of obstacles. Race is
+        conducted in knock-out format with 2 Phases. Participant who will
+        complete laps in least time will be considered as winner.
+      </div>
+    ),
     EventHost: " Sandesh Pawar:(+917385559713)",
     Date: "20-02-2023",
     DateWord: "Mon, Feb 20",
@@ -268,9 +334,22 @@ const EventsData = [
     EventName: "VIIT Auction House (Team)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description:
-      "VIIT AUCTION HOUSE is a mini auction which represents an actual replica of an IPL auction event. Here you will have to bid for cricket players and form a team of 7 players.(2 batsmen, 3 bowlers, 1 wicketkeeper, 1 all-rounder) Based on the stats (of players) , You must bid with the intent to buy and enjoy with your fellow participants. The team with maximum points will be declared as the winner. *The team should be group of 3-4 members. *From these 7 players, assign 1 as a captain who will be getting 2x points. *After every list of players, there will be a 15 min break in which each team will get to know about their remaining balance and number of assets they bought.",
-    EventHost: "Atharv Khanzode (+917305056268)",
+    Description: (
+      <div>
+        VIIT AUCTION HOUSE is a mini auction which represents an actual replica
+        of an IPL auction event. Here you will have to bid for cricket players
+        and form a team of 7 players. (2 batsmen, 3 bowlers, 1 wicketkeeper, 1
+        all-rounder) Based on the stats (of players) , You must bid with the
+        intent to buy and enjoy with your fellow participants. The team with
+        maximum points will be declared as the winner. <br />
+        <br />- The team should be group of 3-4 members. <br />- From these 7
+        players, assign 1 as a captain who will be getting 2x points. <br /> -
+        After every list of players, there will be a 15 min break in which each
+        team will get to know about their remaining balance and number of assets
+        they bought."
+      </div>
+    ),
+    EventHost: "Atharv Khanzode (+918698978193)",
     Date: "21-02-2023",
     DateWord: "Tue, Feb 21",
     Time: "11:00AM",
@@ -284,9 +363,17 @@ const EventsData = [
     EventName: "Water Rocket (Team)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description:
-      "Water Rocket Challenge is one of the very exciting Technical events of Gandharva. Teams design and build a water rocket within the specified dimensions, robust enough to withstand the pressure and when launched from the launch pad, it achieves the maximum altitude above ground level. The team with the maximum air time will be nominated as the winner.",
-    EventHost: "Rushikesh Akhare(+917305056268)",
+    Description: (
+      <div>
+        Water Rocket Challenge is one of the very exciting Technical events of
+        Gandharva. <br />
+        Teams design and build a water rocket within the specified dimensions,
+        robust enough to withstand the pressure and when launched from the
+        launch pad, it achieves the maximum altitude above ground level. <br />
+        The team with the maximum air time will be nominated as the winner.
+      </div>
+    ),
+    EventHost: "Hrushikesh Akhare(+917385056268)",
     Date: "20-02-2023",
     DateWord: "Mon, Feb 20",
     Time: "15:00",
@@ -300,8 +387,21 @@ const EventsData = [
     EventName: "Code Pad (Individual)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description:
-      "Code Pad will be an offline debugging challenge. The participants will be given sheets of paper with C++ code written on it, which the participants will have to debug. Participants have to mark and correct syntactical and other errors in the program that might occur at compile time or run time. The participants will be given a limited amount of time for this activity. Top 2 participants who have detected and corrected the highest number of errors will be selected as the winners.",
+    Description: (
+      <div>
+        Code Pad will be an offline debugging challenge. The participants will
+        be given sheets of paper with C++ code written on it, which the
+        participants will have to debug. <br />
+        <br /> Participants have to mark and correct syntactical and other
+        errors in the program that might occur at compile time or run time. The
+        participants will be given a limited amount of time for this activity.{" "}
+        <br /> <br />
+        Top 2 participants who have detected and corrected the highest number of
+        errors will be selected as the winners.
+        <br />
+        <br /> Event Duration : 45 min
+      </div>
+    ),
     EventHost: "Pranav Andhale (+919011685970) Akash Gulge (+9172182 21823)",
     Date: "To be Announceed",
     DateWord: "To be Announceed",
@@ -316,8 +416,21 @@ const EventsData = [
     EventName: "The Tag Team Mania (Team)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description:
-      "The event will be conducted in two pools containing two rounds in each pool.The team will be of two members each. *Pool 1: This pool will consist of participants of 3rd year. Round 1: This round will consist of OS and DBMS MCQ questions with 1 or 2 coding questions. There will be 10 questions on each topic. Duration: 45 min-1hr. Round 2: Final round - The qualified teams of round 1 will move to round 2 which will be a coding contest. This round will consist of 3/4 coding questions and these questions need to be completed in duration of 1:15 hours.*Pool 2 :This pool will consist of participants from first and second year.Round 1: Elimination round - This round will have MCQ questions on C++ and Java. There will be 10 MCQ questionn on each topic that need to be completed in duration of 45 min to 1 hour Round 2: Final round - The qualified teams of round 1 will move to round 2 which will be a coding contest. This round will consist of 3/4 coding questions that need to be completed in duration of 1:15 hours.",
+    Description: (
+      <div>
+        - ROUND 1 : Round 1 is elimination round <br />
+        Round 1 is a blend of mcq questions from OOPS(object oriented
+        programming) in Java and 2 puzzle questions, ending with 2 coding
+        questions. (Time Duration : 45min/1 hr) <br />
+        <br />
+        - ROUND 2 : Final Round <br />
+        The qualified teams will move ahead to Round 2 which is a coding contest
+        consisting of 5 coding questions. (Time Duration: 1:30 hrs)
+        <br />
+        <br />- The participation in the event is team wise.
+        <br />- The teams will be having 2 members each.
+      </div>
+    ),
     EventHost: "Aman Deshpande (+918956393974)",
     Date: "To be announced",
     DateWord: "To be announced",
@@ -332,15 +445,34 @@ const EventsData = [
     EventName: "Dive in Design (Team)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description:
-      "Dive-in-Design will be an offline design competition. It will consist of two rounds. A) Round 1: Teams will create one template or poster using tools such as Canva, Figma, or others. The judging panel will select teams for Round 2 based on the quality and appeal of their designs. B) Round 2: Selected teams will implement the design using web development or mobile app development technologies, including HTML, CSS, JavaScript, React.js, Flutter, Jetpack Compose, Kotlin, Java, Swift, or React-Native. Teams will be evaluated based on their ability to accurately replicate the design template from Round 1. The judges for Round 2 will be VIIT faculty members",
+    Description: (
+      <div>
+        - Dive-in-Design will be an offline design competition. It will consist
+        of two rounds.
+        <br />
+        <br />
+        A) ROUND 1 : Teams will create one template or poster using tools such
+        as Canva, Figma, or others. The judging panel will select teams for
+        Round 2 based on the quality and appeal of their designs.
+        <br />
+        <br />
+        B) ROUND 2 : Selected teams will implement the design using web
+        development or mobile app development technologies, including HTML, CSS,
+        JavaScript, React.js, Flutter, Jetpack Compose, Kotlin, Java, Swift, or
+        React-Native. Teams will be evaluated based on their ability to
+        accurately replicate the design template from Round 1. The judges for
+        Round 2 will be VIIT faculty members.
+        <br />
+        <br />- Team Size: 1 to 3 (maximum of 3 people per team)
+      </div>
+    ),
     EventHost: "Kalyani Londhe (+917447715770) Pratham Raka (+919511660800)",
     Date: "To be announced",
     DateWord: "To be announced",
     Time: "",
     Location: " C-301 and C-304, 2 labs on the 3rd floor, C Building VIIT",
     Dept: "IT",
-    EntryFee: "80",
+    EntryFee: "100",
   },
 
   {
@@ -348,8 +480,34 @@ const EventsData = [
     EventName: "Squid Game (Team)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description:
-      "Squid Game is theme-based team competition with lots of fun activities. It will be conducted in three successive rounds followed by eliminations. Round 1 (London London Stop!):  5-10 teams would compete against each other with their legs tied. Teams that cross the finish line first would be proceeding to the next round. It’s not as simple as it sounds because teams are allowed to move only when the music’s playing once the music stops no movements. Round 2 (Team Vs Team): In this round a random game would be picked and two teams will compete for winning it. Winning team proceeds to the final round while the loosing team gets eliminated. Round 3 (Balloon Race): The final round will be a balloon race. Successive team members would have a balloon between them, and they have to reach the finish line. But the balloon must not fall or must not burst.-Team Size: 4 (Not less than or greater than 4)",
+    Description: (
+      <div>
+        Squid Game is theme-based team competition with lots of fun activities.
+        It will be conducted in three successive rounds followed by
+        eliminations.
+        <br />
+        <br />
+        A) Round 1 (London London Stop!) : 5-10 teams would compete against each
+        other with their legs tied. Teams that cross the finish line first would
+        be proceeding to the next round. It’s not as simple as it sounds because
+        teams are allowed to move only when the music’s playing once the music
+        stops no movements.
+        <br />
+        <br />
+        B) Round 2 (Team Vs Team): In this round a random game would be picked
+        and two teams will compete for winning it. Winning team proceeds to the
+        final round while the loosing team gets eliminated.
+        <br />
+        <br />
+        c) Round 3 (Balloon Race): The final round will be a balloon race.
+        Successive team members would have a balloon between them, and they have
+        to reach the finish line. But the balloon must not fall or must not
+        burst.
+        <br />
+        <br />
+        -Team Size : 4 (Not less than or greater than 4)
+      </div>
+    ),
     EventHost: "Tejas Jadhav (+918308840161)",
     Date: "To be announced",
     DateWord: "To be announced",
@@ -364,7 +522,9 @@ const EventsData = [
     EventName: "Robo Race (Team)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description: "The robots have to trace the course.Fastest Robot wins",
+    Description: (
+      <div>The robots have to trace the course.Fastest Robot wins</div>
+    ),
     EventHost:
       "Yash Sunne: (+91 7798020997),Ashish Dhairyakar: (+91 9834607010)",
     Date: "20-02-2023, 21-02-2023",
@@ -380,11 +540,24 @@ const EventsData = [
     EventName: "LEGO TECH (Team)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description:
-      "LEGO TECH is an event where teams have to build a car using Lego. Teams have to find Legos in the first round, a treasure hunt. The treasure hunt will consist of 3 sub-rounds, where each team will have to find the Legos using the clues and codes provided to them. Teams have to build cars within their allotted time. The team with the maximum points will be declared the winner. - The team should be a group of 4 members only. - Each team will have 30 minutes to build the cars using the Lego kit. - All the team members should be present at the allotted time. Prize money: 1st = 3000/- and 2nd = 2000/-",
+    Description: (
+      <div>
+        LEGO TECH is an event where teams have to build a car using Lego. Teams
+        have to find Legos in the first round, a treasure hunt. The treasure
+        hunt will consist of 3 sub-rounds, where each team will have to find the
+        Legos using the clues and codes provided to them. Teams have to build
+        cars within their allotted time. The team with the maximum points will
+        be declared the winner.
+        <br />
+        <br /> - The team should be a group of 4 members only
+        <br />- Each team will have 30 minutes to build the cars using the Lego
+        kit.
+        <br />- All the team members should be present at the allotted time.
+      </div>
+    ),
     EventHost: "Samiksha Sonawane (+919011820673)",
     Date: " 21-02-2023",
-    DateWord: "Mon, Feb 21",
+    DateWord: "Tue, Feb 21",
     Time: "11:00 AM to 04:00 PM",
     Location: "MESA Logo at E-Building, VIIT, Pune ",
     Dept: "MECH",
@@ -396,12 +569,27 @@ const EventsData = [
     EventName: "The Stats Say…(Team)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description:
-      "The theme of the event is data story-telling. The participant teams will be given problem statements which will contain basic information of the company such as the domain, keywords related to products, aim, target audience. A small dataset describing company’s past performance will also be given. aim, target audience. A small dataset describing companys past performance will also be given.  The teams have to design a website that will describe the company’s entire details in best possible way. The site can be developed using any means which can include frameworks or programming languages or even tools such as figma / wordpress. . Participating teams are expected to make use of attractive charts that best describe the growth of company. The evaluation will be done considering design factors and other criteria such as readability of the content. ",
+    Description: (
+      <div>
+        The theme of the event is data story-telling. The participant teams will
+        be given problem statements which will contain basic information of the
+        company such as the domain, keywords related to products, aim, target
+        audience. A small dataset describing company’s past performance will
+        also be given.
+        <br />
+        The teams have to design a website that will describe the company’s
+        entire details in best possible way. The site can be developed using any
+        means which can include frameworks or programming languages or even
+        tools such as figma/wordpress. Participating teams are expected to make
+        use of attractive charts that best describe the growth of company. The
+        evaluation will be done considering design factors and other criteria
+        such as readability of the content.{" "}
+      </div>
+    ),
     EventHost:
       "Priyanshu Nikam (+919561451705) Swarangi Gulalkari (+917038370827)",
     Date: " 21-02-2023",
-    DateWord: "Mon, Feb 21",
+    DateWord: "Tue, Feb 21",
     Time: "11:00 AM to 04:00 PM",
     Location: "B201, B-Building, VIIT, Pune ",
     Dept: "CS",
@@ -413,8 +601,21 @@ const EventsData = [
     EventName: "A Day Of Solutions (Both)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description:
-      "A Day Of Solutions will be an offline problem solving challenge. The participants will be given notepads. Problems will be provided to the mail id of respected participants, which the participants have to give a effective and relevant solution of the any one problem.Participants will be given problem statements 48 hours prior, of which they must provide solutions in the form of presentation by presenting the solution infront of the judges.Participants have to submit the solutions on the Google Form circulated before 9am on the day of event. Top 2 participant groups who have presented the most effective solutions will be selected as winners. Event Duration: 4 hours (10mins for each presentation)",
+    Description: (
+      <div>
+        A Day Of Solutions will be an offline problem solving challenge. The
+        participants will be given notepads. Problems will be provided to the
+        mail id of respected participants, which the participants have to give a
+        effective and relevant solution of the any one problem.Participants will
+        be given problem statements 48 hours prior, of which they must provide
+        solutions in the form of presentation by presenting the solution infront
+        of the judges.Participants have to submit the solutions on the Google
+        Form circulated before 9am on the day of event. Top 2 participant groups
+        who have presented the most effective solutions will be selected as
+        winners. <br />
+        Event Duration: 4 hours (10mins for each presentation)
+      </div>
+    ),
     EventHost: "Sahil Ingle  (+919579534587) Shubham Anawade (+919156789105)",
     Date: " 20-02-2023",
     DateWord: "Mon, Feb 20",
@@ -429,8 +630,16 @@ const EventsData = [
     EventName: "BridgeIT (Team)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description:
-      "BridgeIT is a model making event, a model of bridge is to be constructed using structural knowledge about trusses. All the dimension criteria and necessary material will be provided to the participants at the time of the event. ",
+    Description: (
+      <div>
+        BridgeIT is a model making event, a model of bridge is to be constructed
+        using structural knowledge about trusses. All the dimension criteria and
+        necessary material will be provided to the participants at the time of
+        the event.
+        <br />
+        Event Duration: 3 hours
+      </div>
+    ),
     EventHost: "Muzaffar Solanki (+919175493115)",
     Date: " 20-02-2023,21-02-2023",
     DateWord: "Mon & Tue, Feb 20 & 21",
@@ -445,8 +654,15 @@ const EventsData = [
     EventName: "Treasure Hunt",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description:
-      "An enthralling escape from a monotonous routine to an exhilarating hunt. Treasure hunt is a game where you will be setting up a treasure hunt by hiding clues and the treasure. Each clue will tell you where to find the next clue. The final clue will lead to the treasure. Event Duration: 4hrs",
+    Description: (
+      <div>
+        An enthralling escape from a monotonous routine to an exhilarating hunt.
+        Treasure hunt is a game where you will be setting up a treasure hunt by
+        hiding clues and the treasure. Each clue will tell you where to find the
+        next clue. The final clue will lead to the treasure. <br />
+        Event Duration: 4hrs
+      </div>
+    ),
     EventHost: "Rachita Munot (+918080362147)",
     Date: " 20-02-2023,21-02-2023",
     DateWord: "Mon & Tue, Feb 20 & 21",
@@ -461,7 +677,7 @@ const EventsData = [
     EventName: "What The Hack (Workshop)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description: "Cyber Workshop, Talk",
+    Description: <div>Cyber Workshop, Talk</div>,
     EventHost: "Jay Subhedar (+9198601 9204)",
     Date: "21-02-2023",
     DateWord: "Tue, Feb 21",
