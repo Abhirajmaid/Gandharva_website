@@ -189,7 +189,7 @@ const EventsData = [
     EventBanner: default_banner,
     Description:
       <div>VIIT AUCTION HOUSE is a mini auction which represents an actual replica of an IPL auction event. Here you will have to bid for cricket players and form a team of 7 players. (2 batsmen, 3 bowlers, 1 wicketkeeper, 1 all-rounder) Based on the stats (of players) , You must bid with the intent to buy and enjoy with your fellow participants. The team with maximum points will be declared as the winner. <br/><br/>- The team should be group of 3-4 members. <br/>- From these 7 players, assign 1 as a captain who will be getting 2x points. <br/> - After every list of players, there will be a 15 min break in which each team will get to know about their remaining balance and number of assets they bought."</div>,
-    EventHost: "Atharv Khanzode (+917305056268)",
+    EventHost: "Atharv Khanzode (+918698978193)",
     Date: "21-02-2023",
     DateWord: "Tue, Feb 21",
     Time: "11:00AM",
@@ -205,7 +205,7 @@ const EventsData = [
     EventBanner: default_banner,
     Description:
       <div>Water Rocket Challenge is one of the very exciting Technical events of Gandharva. <br/>Teams design and build a water rocket within the specified dimensions, robust enough to withstand the pressure and when launched from the launch pad, it achieves the maximum altitude above ground level. <br/>The team with the maximum air time will be nominated as the winner.</div>,
-    EventHost: "Rushikesh Akhare(+917305056268)",
+    EventHost: "Hrushikesh Akhare(+917385056268)",
     Date: "20-02-2023",
     DateWord: "Mon, Feb 20",
     Time: "15:00",
@@ -283,7 +283,7 @@ Round 2 will be VIIT faculty members.<br/><br/>
     Time: "",
     Location: " C-301 and C-304, 2 labs on the 3rd floor, C Building VIIT",
     Dept: "IT",
-    EntryFee: "80",
+    EntryFee: "100",
   },
 
   {
