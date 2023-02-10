@@ -172,7 +172,7 @@ const EventsData = [
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description:
-      "RC racing is an event in which the participants have to compete for with each other using RC cars. RC-car provided by the organizer can be used in the race. It is Off-road racing competition; it means race is conducted over ground or red soil road with a lot of obstacles. Race is conducted in knock-out format with 2 Phases. Participant who will complete laps in least time will be considered as winner.",
+      <div>RC racing is an event in which the participants have to compete for with each other using RC cars. RC-car provided by the organizer can be used in the race. It is Off-road racing competition; it means race is conducted over ground or red soil road with a lot of obstacles. Race is conducted in knock-out format with 2 Phases. Participant who will complete laps in least time will be considered as winner.</div>,
     EventHost: " Sandesh Pawar:(+917385559713)",
     Date: "20-02-2023",
     DateWord: "Mon, Feb 20",
@@ -188,7 +188,7 @@ const EventsData = [
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description:
-      "VIIT AUCTION HOUSE is a mini auction which represents an actual replica of an IPL auction event. Here you will have to bid for cricket players and form a team of 7 players.(2 batsmen, 3 bowlers, 1 wicketkeeper, 1 all-rounder) Based on the stats (of players) , You must bid with the intent to buy and enjoy with your fellow participants. The team with maximum points will be declared as the winner. *The team should be group of 3-4 members. *From these 7 players, assign 1 as a captain who will be getting 2x points. *After every list of players, there will be a 15 min break in which each team will get to know about their remaining balance and number of assets they bought.",
+      <div>VIIT AUCTION HOUSE is a mini auction which represents an actual replica of an IPL auction event. Here you will have to bid for cricket players and form a team of 7 players. (2 batsmen, 3 bowlers, 1 wicketkeeper, 1 all-rounder) Based on the stats (of players) , You must bid with the intent to buy and enjoy with your fellow participants. The team with maximum points will be declared as the winner. <br/><br/>- The team should be group of 3-4 members. <br/>- From these 7 players, assign 1 as a captain who will be getting 2x points. <br/> - After every list of players, there will be a 15 min break in which each team will get to know about their remaining balance and number of assets they bought."</div>,
     EventHost: "Atharv Khanzode (+917305056268)",
     Date: "21-02-2023",
     DateWord: "Tue, Feb 21",
@@ -204,7 +204,7 @@ const EventsData = [
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description:
-      "Water Rocket Challenge is one of the very exciting Technical events of Gandharva. Teams design and build a water rocket within the specified dimensions, robust enough to withstand the pressure and when launched from the launch pad, it achieves the maximum altitude above ground level. The team with the maximum air time will be nominated as the winner.",
+      <div>Water Rocket Challenge is one of the very exciting Technical events of Gandharva. <br/>Teams design and build a water rocket within the specified dimensions, robust enough to withstand the pressure and when launched from the launch pad, it achieves the maximum altitude above ground level. <br/>The team with the maximum air time will be nominated as the winner.</div>,
     EventHost: "Rushikesh Akhare(+917305056268)",
     Date: "20-02-2023",
     DateWord: "Mon, Feb 20",
@@ -300,10 +300,13 @@ const EventsData = [
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description:
-      "LEGO TECH is an event where teams have to build a car using Lego. Teams have to find Legos in the first round, a treasure hunt. The treasure hunt will consist of 3 sub-rounds, where each team will have to find the Legos using the clues and codes provided to them. Teams have to build cars within their allotted time. The team with the maximum points will be declared the winner. - The team should be a group of 4 members only. - Each team will have 30 minutes to build the cars using the Lego kit. - All the team members should be present at the allotted time. Prize money: 1st = 3000/- and 2nd = 2000/-",
+      <div>LEGO TECH is an event where teams have to build a car using Lego. Teams have to find Legos in the
+      first round, a treasure hunt. The treasure hunt will consist of 3 sub-rounds, where each team will have
+      to find the Legos using the clues and codes provided to them. Teams have to build cars within their
+      allotted time. The team with the maximum points will be declared the winner.<br/><br/> - The team should be a group of 4 members only<br/>- Each team will have 30 minutes to build the cars using the Lego kit.<br/>- All the team members should be present at the allotted time.</div>,
     EventHost: "Samiksha Sonawane (+919011820673)",
     Date: " 21-02-2023",
-    DateWord: "Mon, Feb 21",
+    DateWord: "Tue, Feb 21",
     Time: "11:00 AM to 04:00 PM",
     Location: "MESA Logo at E-Building, VIIT, Pune ",
     Dept: "MECH",
@@ -320,7 +323,7 @@ const EventsData = [
     EventHost:
       "Priyanshu Nikam (+919561451705) Swarangi Gulalkari (+917038370827)",
     Date: " 21-02-2023",
-    DateWord: "Mon, Feb 21",
+    DateWord: "Tue, Feb 21",
     Time: "11:00 AM to 04:00 PM",
     Location: "B201, B-Building, VIIT, Pune ",
     Dept: "CS",
