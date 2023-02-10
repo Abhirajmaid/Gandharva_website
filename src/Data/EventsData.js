@@ -140,7 +140,7 @@ const EventsData = [
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description:
-      "The participants will be given a basic Idea of the topic not the entire topic the entire topic will be revealed during the debate Two teams will debate on the given topic for a total of 10 mins the winning team will be decided on the basis of a marking system.",
+      <div>The participants will be given a basic Idea of the topic not the entire topic the entire topic will be revealed during the debate Two teams will debate on the given topic for a total of 10 mins the winning team will be decided on the basis of a marking system.<br/>-Event Duration: Depends on the number of participants </div>,
     EventHost: "Parth Bhosale:(+919284833611) Priya Chougale (+919421102099)",
     Date: "21-02-2023",
     DateWord: "Mon, Feb 21",
@@ -156,7 +156,23 @@ const EventsData = [
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description:
-      "Each team will be assigned 2 PCs and the team can divide the tasks  within themselves.Every PC will have 5 questions for the first round. The questions will be interlinked with each other. Solving the questions on PC 1 will unlock the questions on PC 2. After the last question will be solved, the outputs will be concatenated to get the key for the next round. First 7 teams to finish the first round will be qualified for the second round. Round 2 is similar but the difficulty level will be raised. Requirements: 1. Team of 3-4 members 2. Basic knowledge of aptitude and coding ",
+      <div>Each team will be assigned 2 PCs and the team can divide the tasks  within themselves.
+      <br/>Every PC will have 5 questions for the first round.
+      The questions will be interlinked with each other.
+      Solving the questions on PC 1 will unlock the questions on PC 2.
+      <br/>After the last question will be solved, the outputs will be concatenated to get the key for the next round.
+      First 7 teams to finish the first round will be qualified for the second round.
+      <br/>Round 2 is similar but the difficulty level will be raised.<br/><br/>
+      Flow : <br/>
+      Round 1) 5 questions - 1 hr.<br/>
+      Round 2) 3 questions - 1 hr.<br/><br/>
+      Requirements:<br/>
+      - Team of 3-4 members<br/>
+      - Basic knowledge of aptitude and coding
+
+      
+
+      </div>,
     EventHost: "Ayan Sayyad (+917058575810) Ansfred D'Souza (+918788944520)",
     Date: "20-02-2023",
     DateWord: "Mon, Feb 20",
@@ -349,7 +365,8 @@ Round 2 will be VIIT faculty members.<br/><br/>
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description:
-      "The theme of the event is data story-telling. The participant teams will be given problem statements which will contain basic information of the company such as the domain, keywords related to products, aim, target audience. A small dataset describing company’s past performance will also be given. aim, target audience. A small dataset describing companys past performance will also be given.  The teams have to design a website that will describe the company’s entire details in best possible way. The site can be developed using any means which can include frameworks or programming languages or even tools such as figma / wordpress. . Participating teams are expected to make use of attractive charts that best describe the growth of company. The evaluation will be done considering design factors and other criteria such as readability of the content. ",
+      <div>The theme of the event is data story-telling. The participant teams will be given problem statements which will contain basic information of the company such as the domain, keywords related to products, aim, target audience. A small dataset describing company’s past performance will also be given.<br/>
+      The teams have to design a website that will describe the company’s entire details in best possible way. The site can be developed using any means which can include frameworks or programming languages or even tools such as figma/wordpress. Participating teams are expected to make use of attractive charts that best describe the growth of company. The evaluation will be done considering design factors and other criteria such as readability of the content. </div>,
     EventHost:
       "Priyanshu Nikam (+919561451705) Swarangi Gulalkari (+917038370827)",
     Date: " 21-02-2023",
