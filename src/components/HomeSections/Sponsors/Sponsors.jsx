@@ -2,6 +2,8 @@ import React from "react";
 import "./style.css";
 import { Link } from "react-router-dom";
 import webfudge from "../../../images/1.png";
+import sanspots from "../../../images/sanspots.png";
+import finserve from "../../../images/finserve.png";
 import tba from "../../../images/TO_BE_announced.png";
 
 const Sponsors = () => {
@@ -22,7 +24,7 @@ const Sponsors = () => {
               <h2>Powered By</h2>
               <div className="items">
                 <div className="item">
-                  <img src={tba} alt="" />
+                  <img src={sanspots} alt="" />
                 </div>
               </div>
             </div>
@@ -43,8 +45,11 @@ const Sponsors = () => {
                 <img src={webfudge} alt="" />
               </div>
             </div>
-            <div className="item">
-              <img src={tba} alt="" />
+            <div>
+              <h4 className="spo_partner">Fin-Tech Partner</h4>
+              <div className="item">
+                <img src={finserve} alt="" />
+              </div>
             </div>
             <div className="item">
               <img src={tba} alt="" />
