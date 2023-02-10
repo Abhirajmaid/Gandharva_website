@@ -31,13 +31,13 @@ const Contact = () => {
                     <Icon className="cont_social" icon="il:linkedin" />
                   </a>
                   <a
-                    href={`mailto:${contact.Email}`}
+                    href={contact.Whatsapp}
                     target="_blank"
                     rel="noreferrer"
                   >
                     <Icon
                       className="cont_social"
-                      icon="material-symbols:mail-outline-rounded"
+                      icon="mdi:whatsapp"
                     />
                   </a>
                 </div>
