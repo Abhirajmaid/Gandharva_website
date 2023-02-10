@@ -6,11 +6,19 @@ const EventsData = [
     EventName: "Valorant(Team)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description:
-    <div> There will be up to 35 teams in the Tournament. <br/>
-      Teams will consist of five players , one of whom will be designated captain and will be the main point of contact with the Tournament organisers.<br/>
-      By participating in the Valorant Community Tournament, Participants acknowledge they will, without limitation, comply with the Tournament Rules and with the statements and decisions made by the Administration. </div>
-    ,
+    Description: (
+      <div>
+        {" "}
+        There will be up to 35 teams in the Tournament. <br />
+        Teams will consist of five players , one of whom will be designated
+        captain and will be the main point of contact with the Tournament
+        organisers.
+        <br />
+        By participating in the Valorant Community Tournament, Participants
+        acknowledge they will, without limitation, comply with the Tournament
+        Rules and with the statements and decisions made by the Administration.{" "}
+      </div>
+    ),
     EventHost: "Ajinkya Ghawale: (+919970282868) Gokul B: (+917758946564)",
     Date: "20-02-2023, 21-02-2023",
     DateWord: "Mon & Tue , Feb 20 & 21",
@@ -25,8 +33,14 @@ const EventsData = [
     EventName: "Pseudo Search (Team)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description:
-      <div>A treasure hunt in which each clue will lead to a component and in the end, you have to assemble the component and work on the prototype model.<br/><br/> - Register individually </div>,
+    Description: (
+      <div>
+        A treasure hunt in which each clue will lead to a component and in the
+        end, you have to assemble the component and work on the prototype model.
+        <br />
+        <br /> - Register individually{" "}
+      </div>
+    ),
     EventHost: "Mrunal Hedau:(+919552179944)  Shreeyash Kelkar:(+919137823508)",
     Date: "To be Announced",
     DateWord: "To be Announced",
@@ -72,8 +86,18 @@ const EventsData = [
     EventName: "Fix and Find (Team)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description:
-      <div>This event will not only test your coding abilities but also your physical fitness. The task is to run codes and burn calories in real life, to obtain clues and progress to the next level. Teams must run around campus looking for clues that contain a code which they must solve/correct. This will be done in three rounds, and your logical, error-solving and DSA skills will be tested. Let’s see who can code and run their way to the top! <br/><br/> - Entry Fee is Rs.200/Team.</div>,
+    Description: (
+      <div>
+        This event will not only test your coding abilities but also your
+        physical fitness. The task is to run codes and burn calories in real
+        life, to obtain clues and progress to the next level. Teams must run
+        around campus looking for clues that contain a code which they must
+        solve/correct. This will be done in three rounds, and your logical,
+        error-solving and DSA skills will be tested. Let’s see who can code and
+        run their way to the top! <br />
+        <br /> - Entry Fee is Rs.200/Team.
+      </div>
+    ),
     EventHost:
       "Shardul Khandebharad: (+919829704334) Kalpak Nemade: (+917350103025)",
     Date: "21-02-2023",
@@ -89,8 +113,17 @@ const EventsData = [
     EventName: "Data Dash(Team)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description:
-      <div>What makes Data Dash unique is that rather than writing the entire code, you make incremental progress and pass it onto the next contributor just like in a relay race. Team members will come ahead and contribute to the visualizations one by one ,with the final person creating a creative and appealing dashboard. However, knowledge transfer is critical to success.<br/> Can you race your way to victory? <br/><br/>- Entry Fee is Rs.200/Team.</div>,
+    Description: (
+      <div>
+        What makes Data Dash unique is that rather than writing the entire code,
+        you make incremental progress and pass it onto the next contributor just
+        like in a relay race. Team members will come ahead and contribute to the
+        visualizations one by one ,with the final person creating a creative and
+        appealing dashboard. However, knowledge transfer is critical to success.
+        <br /> Can you race your way to victory? <br />
+        <br />- Entry Fee is Rs.200/Team.
+      </div>
+    ),
     EventHost:
       "Shruti Jadhav: (+91 7030057089), Noopur Phadke:(+91 7498819779)",
     Date: "20-02-2023",
@@ -106,8 +139,46 @@ const EventsData = [
     EventName: "Fun Zone(Individual)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description:
-      <div>As the name suggests, this event is going to be one of the most fun and exciting one.<br/><br/>Fun zone has total 6 amazing games namely: <br/><br/>a) Shrink the Circle: Huge circle will be drawn and participants will be placed inside that circle ,we will give some tasks to them and we will eliminate them if they failed to do so, we will shrink the circle simultaneously  and when very few people are left ,we will play RST game. RST game is the quick game in which we will ask them to start with any word which will not contain R or S or T and next person should speak a word which was related to previous one. <br/><br/>b) Gun Wars: Participants will be provided with water guns and their body will be covered with paper sheets, when the game begins ,participants will shoot each other with water guns and if their paper sheet gets wet and torn out  then they will be eliminated. <br/><br/>c) X/O: One frame will be created and it will be covered with nets. Participants will be marked X and O .If the same team participants are able to go through that frame in a sequential way (XXX or OOO) then that team wins that game.<br/><br/> d) Retro Games:(Entire day) Our old retro games will be installed on some of the laptops and we will create a competition on the Clash Royal game and other games will be random fun game. i.(Clash Royal) -Flagship, ii.Crazy taxi, iii.pocket tank, iv.Road rash, v.Angry Birds. <br/><br/>e) RC rocket league: In this game, we will make a football ground with two goal posts. There will be 2 teams playing against each other. Here instead of people, Remote Control Cars will play football and the team who bags maximum goals in the given time, wins the game. <br/><br/> -Entry Fee is Rs.100/Person.<br/> -Prize Worth Rs.8000/-</div>,
+    Description: (
+      <div>
+        As the name suggests, this event is going to be one of the most fun and
+        exciting one.
+        <br />
+        <br />
+        Fun zone has total 6 amazing games namely: <br />
+        <br />
+        a) Shrink the Circle: Huge circle will be drawn and participants will be
+        placed inside that circle ,we will give some tasks to them and we will
+        eliminate them if they failed to do so, we will shrink the circle
+        simultaneously and when very few people are left ,we will play RST game.
+        RST game is the quick game in which we will ask them to start with any
+        word which will not contain R or S or T and next person should speak a
+        word which was related to previous one. <br />
+        <br />
+        b) Gun Wars: Participants will be provided with water guns and their
+        body will be covered with paper sheets, when the game begins
+        ,participants will shoot each other with water guns and if their paper
+        sheet gets wet and torn out then they will be eliminated. <br />
+        <br />
+        c) X/O: One frame will be created and it will be covered with nets.
+        Participants will be marked X and O .If the same team participants are
+        able to go through that frame in a sequential way (XXX or OOO) then that
+        team wins that game.
+        <br />
+        <br /> d) Retro Games:(Entire day) Our old retro games will be installed
+        on some of the laptops and we will create a competition on the Clash
+        Royal game and other games will be random fun game. i.(Clash Royal)
+        -Flagship, ii.Crazy taxi, iii.pocket tank, iv.Road rash, v.Angry Birds.{" "}
+        <br />
+        <br />
+        e) RC rocket league: In this game, we will make a football ground with
+        two goal posts. There will be 2 teams playing against each other. Here
+        instead of people, Remote Control Cars will play football and the team
+        who bags maximum goals in the given time, wins the game. <br />
+        <br /> -Entry Fee is Rs.100/Person.
+        <br /> -Prize Worth Rs.8000/-
+      </div>
+    ),
     EventHost:
       "Atharva Jadhav: (+91 9763390976), Sahil Soujani (+91 9822713136)",
     Date: "To be announced",
@@ -123,8 +194,18 @@ const EventsData = [
     EventName: "Snap the Snippet(Individual)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description:
-      <div>This event will test the critical thinking abilities and your understanding of solving problem statements through programming. There will be 4 rounds each of 5 mins where participants individually will be challenged with a Pseudo Code and they have to identify the problem statement from the same. As soon as the participant cracks the pseudo code, they will hit the buzzer. Winners will be decided by the accuracy of the answer and the time taken. <br/><br/> - Entry Fee is Rs.100/Person. </div>,
+    Description: (
+      <div>
+        This event will test the critical thinking abilities and your
+        understanding of solving problem statements through programming. There
+        will be 4 rounds each of 5 mins where participants individually will be
+        challenged with a Pseudo Code and they have to identify the problem
+        statement from the same. As soon as the participant cracks the pseudo
+        code, they will hit the buzzer. Winners will be decided by the accuracy
+        of the answer and the time taken. <br />
+        <br /> - Entry Fee is Rs.100/Person.{" "}
+      </div>
+    ),
     EventHost: "Ruchika Taware (+918888844659 Shreya Patil (+919730836615))",
     Date: "21-02-2023",
     DateWord: "Tue, Feb 21",
@@ -168,7 +249,7 @@ const EventsData = [
 
   {
     id: "10",
-    EventName: "RC Racing Compt.(Individual)",
+    EventName: "RC Racing Compt.(Both)",
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description:
