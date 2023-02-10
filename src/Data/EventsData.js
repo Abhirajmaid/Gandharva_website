@@ -26,7 +26,8 @@ const EventsData = [
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description:
-      <div>A treasure hunt in which each clue will lead to a component and in the end, you have to assemble the component and work on the prototype model.<br/><br/> - Register individually </div>,
+      <div>A treasure hunt in which each clue will lead to a component and in the end, you have to assemble the component and work on the prototype model.<br/><br/> - Register individually<br/>-Event Duration: 4hr </div>
+      ,
     EventHost: "Mrunal Hedau:(+919552179944)  Shreeyash Kelkar:(+919137823508)",
     Date: "To be Announced",
     DateWord: "To be Announced",
@@ -41,7 +42,12 @@ const EventsData = [
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description:
-      "We have to debug the repositories file which is being stored in github in a given time frame and the maximum bug solver will be the winner. Leaderboard will assign through max no of bug solvers.",
+      <div>We have to debug the repositories file which is being stored in github in given time
+      frame and maximum bug solver will be the winner. Leaderboard will assign through
+      max no of bug solver.
+      <br/>
+      Event Duration: 4hr
+      </div>,
     EventHost: "Gokul B:(+917758946564)  Tejas Ugale:(+917666703180)",
     Date: "To be Announced",
     DateWord: "To be Announced",
@@ -57,7 +63,16 @@ const EventsData = [
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description:
-      "ADD CAD will be a event in which the participants will be tested for their knowledge in AutoCad Software And Also their knowledge in Building Planning.  It will be conducted in 3 Rounds Respectively Round 1 :- MCQs Test For their Knowledge Related To AUTOCAD (30 - 45 mins) Round 2 :- It Will Be a Round Testing the participants proficiency in the Software (45 mins) Round 3 :- Will Consist of Planning a Building (1Hr 15Mins)  Event Duration: 5 Hrs ",
+      <div>ADD CAD will be a event in which the participants will be tested for their knowledge in AutoCad Software And Also their knowledge in Building Planning. 
+      It will be conducted in 3 Rounds Respectively<br/><br/>
+      A) Round 1 :- MCQs Test For their Knowledge Related To AUTOCAD (30 - 45 mins)
+      <br/>
+      B) Round 2 :- It Will Be a Round Testing the participants proficiency in the Software (45 mins)
+      <br/>
+      c) Round 3 :- Will Consist of Planning a Building (1Hr 15Mins) 
+      <br/>
+      - Event Duration: 5 Hrs
+      </div>,
     EventHost: "Rachita Munot (+918080362147)",
     Date: " 20-02-2023",
     DateWord: "Mon , Feb 20 ",
@@ -169,9 +184,6 @@ const EventsData = [
       Requirements:<br/>
       - Team of 3-4 members<br/>
       - Basic knowledge of aptitude and coding
-
-      
-
       </div>,
     EventHost: "Ayan Sayyad (+917058575810) Ansfred D'Souza (+918788944520)",
     Date: "20-02-2023",
@@ -329,7 +341,7 @@ Round 2 will be VIIT faculty members.<br/><br/>
     EventName: "Robo Race (Team)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description: "The robots have to trace the course.Fastest Robot wins",
+    Description: <div>The robots have to trace the course.Fastest Robot wins</div>,
     EventHost:
       "Yash Sunne: (+91 7798020997),Ashish Dhairyakar: (+91 9834607010)",
     Date: "20-02-2023, 21-02-2023",
@@ -383,7 +395,7 @@ Round 2 will be VIIT faculty members.<br/><br/>
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description:
-      "A Day Of Solutions will be an offline problem solving challenge. The participants will be given notepads. Problems will be provided to the mail id of respected participants, which the participants have to give a effective and relevant solution of the any one problem.Participants will be given problem statements 48 hours prior, of which they must provide solutions in the form of presentation by presenting the solution infront of the judges.Participants have to submit the solutions on the Google Form circulated before 9am on the day of event. Top 2 participant groups who have presented the most effective solutions will be selected as winners. Event Duration: 4 hours (10mins for each presentation)",
+      <div>A Day Of Solutions will be an offline problem solving challenge. The participants will be given notepads. Problems will be provided to the mail id of respected participants, which the participants have to give a effective and relevant solution of the any one problem.Participants will be given problem statements 48 hours prior, of which they must provide solutions in the form of presentation by presenting the solution infront of the judges.Participants have to submit the solutions on the Google Form circulated before 9am on the day of event. Top 2 participant groups who have presented the most effective solutions will be selected as winners. <br/>Event Duration: 4 hours (10mins for each presentation)</div>,
     EventHost: "Sahil Ingle  (+919579534587) Shubham Anawade (+919156789105)",
     Date: " 20-02-2023",
     DateWord: "Mon, Feb 20",
@@ -399,7 +411,7 @@ Round 2 will be VIIT faculty members.<br/><br/>
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description:
-      "BridgeIT is a model making event, a model of bridge is to be constructed using structural knowledge about trusses. All the dimension criteria and necessary material will be provided to the participants at the time of the event. ",
+      <div>BridgeIT is a model making event, a model of bridge is to be constructed using structural knowledge about trusses. All the dimension criteria and necessary material will be provided to the participants at the time of the event.<br/>Event Duration: 3 hours</div>,
     EventHost: "Muzaffar Solanki (+919175493115)",
     Date: " 20-02-2023,21-02-2023",
     DateWord: "Mon & Tue, Feb 20 & 21",
@@ -414,8 +426,7 @@ Round 2 will be VIIT faculty members.<br/><br/>
     EventName: "Treasure Hunt",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description:
-      "An enthralling escape from a monotonous routine to an exhilarating hunt. Treasure hunt is a game where you will be setting up a treasure hunt by hiding clues and the treasure. Each clue will tell you where to find the next clue. The final clue will lead to the treasure. Event Duration: 4hrs",
+    Description:<div>An enthralling escape from a monotonous routine to an exhilarating hunt. Treasure hunt is a game where you will be setting up a treasure hunt by hiding clues and the treasure. Each clue will tell you where to find the next clue. The final clue will lead to the treasure. <br/>Event Duration: 4hrs</div>,
     EventHost: "Rachita Munot (+918080362147)",
     Date: " 20-02-2023,21-02-2023",
     DateWord: "Mon & Tue, Feb 20 & 21",
@@ -430,7 +441,7 @@ Round 2 will be VIIT faculty members.<br/><br/>
     EventName: "What The Hack (Workshop)",
     EventPoster: default_poster,
     EventBanner: default_banner,
-    Description: "Cyber Workshop, Talk",
+    Description: <div>Cyber Workshop, Talk</div>,
     EventHost: "Jay Subhedar (+9198601 9204)",
     Date: "21-02-2023",
     DateWord: "Tue, Feb 21",
