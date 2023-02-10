@@ -168,7 +168,7 @@ const EventsData = [
 
   {
     id: "10",
-    EventName: "RC Racing Compt.(Individual)",
+    EventName: "RC Racing Compt.(Team)",
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description:
@@ -220,7 +220,8 @@ const EventsData = [
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description:
-      "Code Pad will be an offline debugging challenge. The participants will be given sheets of paper with C++ code written on it, which the participants will have to debug. Participants have to mark and correct syntactical and other errors in the program that might occur at compile time or run time. The participants will be given a limited amount of time for this activity. Top 2 participants who have detected and corrected the highest number of errors will be selected as the winners.",
+      <div>Code Pad will be an offline debugging challenge. The participants will be given sheets of paper with C++ code written on it, which the participants will have to debug. <br/><br/> Participants have to mark and correct syntactical and other errors in the program that might occur at compile time or run time. The participants will be given a limited amount of time for this activity. <br/> <br/>Top 2 participants who have detected and corrected the highest number of errors will be selected as the winners.<br/><br/> Event Duration : 45 min
+      </div>,
     EventHost: "Pranav Andhale (+919011685970) Akash Gulge (+9172182 21823)",
     Date: "To be Announceed",
     DateWord: "To be Announceed",
@@ -236,7 +237,16 @@ const EventsData = [
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description:
-      "The event will be conducted in two pools containing two rounds in each pool.The team will be of two members each. *Pool 1: This pool will consist of participants of 3rd year. Round 1: This round will consist of OS and DBMS MCQ questions with 1 or 2 coding questions. There will be 10 questions on each topic. Duration: 45 min-1hr. Round 2: Final round - The qualified teams of round 1 will move to round 2 which will be a coding contest. This round will consist of 3/4 coding questions and these questions need to be completed in duration of 1:15 hours.*Pool 2 :This pool will consist of participants from first and second year.Round 1: Elimination round - This round will have MCQ questions on C++ and Java. There will be 10 MCQ questionn on each topic that need to be completed in duration of 45 min to 1 hour Round 2: Final round - The qualified teams of round 1 will move to round 2 which will be a coding contest. This round will consist of 3/4 coding questions that need to be completed in duration of 1:15 hours.",
+      <div>- ROUND 1 : Round 1 is elimination round <br/> 
+      Round 1 is a blend of mcq questions from OOPS(object oriented programming) in Java and 2 puzzle questions, ending with 2 coding questions.  
+      (Time Duration : 45min/1 hr) <br/><br/>
+      - ROUND 2 : Final Round  <br/>
+      The qualified teams will move ahead to Round 2 which is a coding contest consisting of 5 coding questions. 
+      (Time Duration: 1:30 hrs) 
+      <br/><br/>- The participation in the event is team wise. 
+      <br/>- The teams will be having 2 members each.  
+
+      </div>,
     EventHost: "Aman Deshpande (+918956393974)",
     Date: "To be announced",
     DateWord: "To be announced",
@@ -252,7 +262,21 @@ const EventsData = [
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description:
-      "Dive-in-Design will be an offline design competition. It will consist of two rounds. A) Round 1: Teams will create one template or poster using tools such as Canva, Figma, or others. The judging panel will select teams for Round 2 based on the quality and appeal of their designs. B) Round 2: Selected teams will implement the design using web development or mobile app development technologies, including HTML, CSS, JavaScript, React.js, Flutter, Jetpack Compose, Kotlin, Java, Swift, or React-Native. Teams will be evaluated based on their ability to accurately replicate the design template from Round 1. The judges for Round 2 will be VIIT faculty members",
+      <div>- Dive-in-Design will be an offline design competition. It will consist of
+      two rounds.<br/><br/>
+      A) ROUND 1 : Teams will create one template or poster using tools
+such as Canva, Figma, or others. The judging panel will select teams for
+Round 2 based on the quality and appeal of their designs.<br/><br/>
+B) ROUND 2 : Selected teams will implement the design using web
+development or mobile app development technologies, including HTML,
+CSS, JavaScript, React.js, Flutter, Jetpack Compose, Kotlin, Java, Swift,
+or React-Native. Teams will be evaluated based on their ability to
+accurately replicate the design template from Round 1. The judges for
+Round 2 will be VIIT faculty members.<br/><br/>
+- Team Size: 1 to 3 (maximum of 3 people per team)
+
+
+      </div>,
     EventHost: "Kalyani Londhe (+917447715770) Pratham Raka (+919511660800)",
     Date: "To be announced",
     DateWord: "To be announced",
@@ -268,7 +292,13 @@ const EventsData = [
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description:
-      "Squid Game is theme-based team competition with lots of fun activities. It will be conducted in three successive rounds followed by eliminations. Round 1 (London London Stop!):  5-10 teams would compete against each other with their legs tied. Teams that cross the finish line first would be proceeding to the next round. It’s not as simple as it sounds because teams are allowed to move only when the music’s playing once the music stops no movements. Round 2 (Team Vs Team): In this round a random game would be picked and two teams will compete for winning it. Winning team proceeds to the final round while the loosing team gets eliminated. Round 3 (Balloon Race): The final round will be a balloon race. Successive team members would have a balloon between them, and they have to reach the finish line. But the balloon must not fall or must not burst.-Team Size: 4 (Not less than or greater than 4)",
+      <div>Squid Game is theme-based team competition with lots of fun activities.
+      It will be conducted in three successive rounds followed by eliminations.<br/><br/>
+      A) Round 1 (London London Stop!) :  5-10 teams would compete against each other with their legs tied. Teams that cross the finish line first would be proceeding to the next round. It’s not as simple as it sounds because teams are allowed to move only when the music’s playing once the music stops no movements.<br/><br/>
+      B) Round 2 (Team Vs Team): In this round a random game would be picked and two teams will compete for winning it. Winning team proceeds to the final round while the loosing team gets eliminated.<br/><br/>
+      c) Round 3 (Balloon Race): The final round will be a balloon race. Successive team members would have a balloon between them, and they have to reach the finish line. But the balloon must not fall or must not burst.<br/><br/>
+      -Team Size : 4 (Not less than or greater than 4)
+      </div>,
     EventHost: "Tejas Jadhav (+918308840161)",
     Date: "To be announced",
     DateWord: "To be announced",
