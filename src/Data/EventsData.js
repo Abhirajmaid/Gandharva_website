@@ -403,9 +403,9 @@ const EventsData = [
       </div>
     ),
     EventHost: "Pranav Andhale (+919011685970) Akash Gulge (+9172182 21823)",
-    Date: "To be Announceed",
-    DateWord: "To be Announceed",
-    Time: "",
+    Date: "20-02-2023",
+    DateWord: "20th Feb",
+    Time: "10:00-10:45",
     Location: "C-301, C-304, C building VIIT",
     Dept: "IT",
     EntryFee: "50",
@@ -425,16 +425,16 @@ const EventsData = [
         <br />
         - ROUND 2 : Final Round <br />
         The qualified teams will move ahead to Round 2 which is a coding contest
-        consisting of 5 coding questions. (Time Duration: 1:30 hrs)
+        consisting of 3 coding questions. (Time Duration: 1 hr)
         <br />
         <br />- The participation in the event is team wise.
         <br />- The teams will be having 2 members each.
       </div>
     ),
     EventHost: "Aman Deshpande (+918956393974)",
-    Date: "To be announced",
-    DateWord: "To be announced",
-    Time: "",
+    Date: "20-02-2023",
+    DateWord: "20th Feb",
+    Time: "Round 1 : 15:00-16:00 Round 2 : 16:00-17:30",
     Location: "C building Labs, VIIT",
     Dept: "IT",
     EntryFee: "100",
@@ -467,9 +467,9 @@ const EventsData = [
       </div>
     ),
     EventHost: "Kalyani Londhe (+917447715770) Pratham Raka (+919511660800)",
-    Date: "To be announced",
-    DateWord: "To be announced",
-    Time: "",
+    Date: "20-02-2023",
+    DateWord: "20th Feb",
+    Time: "Round 1 : 11:15-12:15 Round 2 : 13:00-15:00",
     Location: " C-301 and C-304, 2 labs on the 3rd floor, C Building VIIT",
     Dept: "IT",
     EntryFee: "100",
@@ -509,9 +509,9 @@ const EventsData = [
       </div>
     ),
     EventHost: "Tejas Jadhav (+918308840161)",
-    Date: "To be announced",
-    DateWord: "To be announced",
-    Time: "",
+    Date: "21-02-2023",
+    DateWord: "21st Feb",
+    Time: "11:00am Onwards",
     Location: "Road B/W B and C building, VIIT",
     Dept: "IT",
     EntryFee: "100",
