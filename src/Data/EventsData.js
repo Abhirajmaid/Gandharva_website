@@ -1,5 +1,9 @@
 import default_poster from "../images/gandharva_website.png";
 import default_banner from "../images/gandharva_landscape.png";
+import fandf from "../images/Event_poster/FandF_AI.png";
+import SandS from "../images/Event_poster/SandS_AI.png";
+import dd from "../images/Event_poster/DD_AI.png";
+import fz from "../images/Event_poster/FZ_AI.png";
 const EventsData = [
   {
     id: "0",
@@ -108,8 +112,8 @@ const EventsData = [
   {
     id: "4",
     EventName: "Fix and Find (Team)",
-    EventPoster: default_poster,
-    EventBanner: default_banner,
+    EventPoster: fandf,
+    EventBanner: fandf,
     Description: (
       <div>
         This event will not only test your coding abilities but also your
@@ -124,10 +128,10 @@ const EventsData = [
     ),
     EventHost:
       "Shardul Khandebharad: (+919829704334) Kalpak Nemade: (+917350103025)",
-    Date: "21-02-2023",
-    DateWord: "Tue, Feb 21",
+    Date: "20-02-2023",
+    DateWord: "Mon, Feb 20",
     Time: "13:00 - 17:00",
-    Location: "301, D-building, VIIT ",
+    Location: "304, D-building, VIIT ",
     Dept: "AI&DS",
     EntryFee: "200",
   },
@@ -135,7 +139,7 @@ const EventsData = [
   {
     id: "5",
     EventName: "Data Dash(Team)",
-    EventPoster: default_poster,
+    EventPoster: dd,
     EventBanner: default_banner,
     Description: (
       <div>
@@ -153,7 +157,7 @@ const EventsData = [
     Date: "20-02-2023",
     DateWord: "Mon, Feb 20",
     Time: "14:00 - 15:30",
-    Location: "D-301,D Building,VIIT",
+    Location: "D-305,D Building,VIIT",
     Dept: "AI&DS",
     EntryFee: "200",
   },
@@ -161,7 +165,7 @@ const EventsData = [
   {
     id: "6",
     EventName: "Fun Zone(Individual)",
-    EventPoster: default_poster,
+    EventPoster: fz,
     EventBanner: default_banner,
     Description: (
       <div>
@@ -179,34 +183,28 @@ const EventsData = [
         word which will not contain R or S or T and next person should speak a
         word which was related to previous one. <br />
         <br />
-        b) Gun Wars: Participants will be provided with water guns and their
-        body will be covered with paper sheets, when the game begins
-        ,participants will shoot each other with water guns and if their paper
-        sheet gets wet and torn out then they will be eliminated. <br />
-        <br />
-        c) X/O: One frame will be created and it will be covered with nets.
+        b) X/O: One frame will be created and it will be covered with nets.
         Participants will be marked X and O .If the same team participants are
         able to go through that frame in a sequential way (XXX or OOO) then that
         team wins that game.
         <br />
-        <br /> d) Retro Games:(Entire day) Our old retro games will be installed
+        <br /> c) Retro Games:(Entire day) Our old retro games will be installed
         on some of the laptops and we will create a competition on the Clash
         Royal game and other games will be random fun game. i.(Clash Royal)
         -Flagship, ii.Crazy taxi, iii.pocket tank, iv.Road rash, v.Angry Birds.{" "}
         <br />
         <br />
-        e) RC rocket league: In this game, we will make a football ground with
+        d) RC rocket league: In this game, we will make a football ground with
         two goal posts. There will be 2 teams playing against each other. Here
         instead of people, Remote Control Cars will play football and the team
         who bags maximum goals in the given time, wins the game. <br />
         <br /> -Entry Fee is Rs.100/Person.
-        <br /> -Prize Worth Rs.8000/-
       </div>
     ),
     EventHost:
       "Atharva Jadhav: (+91 9763390976), Sahil Soujani (+91 9822713136)",
-    Date: "To be announced",
-    DateWord: "To be announced",
+    Date: "20-02-2023, 21-02-2023",
+    DateWord: "Mon & Tue, Feb 20 & 21",
     Time: "",
     Location: "301, D Building, VIIT",
     Dept: "AI&DS",
@@ -216,7 +214,7 @@ const EventsData = [
   {
     id: "7",
     EventName: "Snap the Snippet(Individual)",
-    EventPoster: default_poster,
+    EventPoster: SandS,
     EventBanner: default_banner,
     Description: (
       <div>
@@ -350,10 +348,10 @@ const EventsData = [
       </div>
     ),
     EventHost: "Atharv Khanzode (+918698978193)",
-    Date: "21-02-2023",
-    DateWord: "Tue, Feb 21",
+    Date: "20-02-2023",
+    DateWord: "Mon, Feb 20",
     Time: "11:00AM",
-    Location: "Seminar Hall, VIIT",
+    Location: "Seminar Hall and E-105, VIIT",
     Dept: "MECH",
     EntryFee: "200",
   },
@@ -374,8 +372,8 @@ const EventsData = [
       </div>
     ),
     EventHost: "Hrushikesh Akhare(+917385056268)",
-    Date: "20-02-2023",
-    DateWord: "Mon, Feb 20",
+    Date: "21-02-2023",
+    DateWord: "Tue, Feb 21",
     Time: "15:00",
     Location: "Ground, VIIT Pune",
     Dept: "MECH",
@@ -651,7 +649,7 @@ const EventsData = [
 
   {
     id: "22",
-    EventName: "Treasure Hunt",
+    EventName: "Tech Hunt",
     EventPoster: default_poster,
     EventBanner: default_banner,
     Description: (
@@ -669,7 +667,7 @@ const EventsData = [
     Time: "",
     Location: "D-101, D-Building, VIIT, Pune ",
     Dept: "CIVIL",
-    EntryFee: "100",
+    EntryFee: "200",
   },
 
   {
