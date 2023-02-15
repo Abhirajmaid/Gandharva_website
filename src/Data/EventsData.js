@@ -4,6 +4,10 @@ import fandf from "../images/Event_poster/FandF_AI.png";
 import SandS from "../images/Event_poster/SandS_AI.png";
 import dd from "../images/Event_poster/DD_AI.png";
 import fz from "../images/Event_poster/FZ_AI.png";
+import addcad from "../images/Event_poster/ADDCAD.png";
+import bridgeIT from "../images/Event_poster/BridgeIT.png";
+import dayofsolution from "../images/Event_poster/dayofsolution.png";
+import treasurehunt from "../images/Event_poster/treasurehunt.png";
 const EventsData = [
   {
     id: "0",
@@ -81,7 +85,7 @@ const EventsData = [
   {
     id: "3",
     EventName: "ADD CAD (Both)",
-    EventPoster: default_poster,
+    EventPoster: addcad,
     EventBanner: default_banner,
     Description: (
       <div>
@@ -113,7 +117,7 @@ const EventsData = [
     id: "4",
     EventName: "Fix and Find (Team)",
     EventPoster: fandf,
-    EventBanner: fandf,
+    EventBanner: default_banner,
     Description: (
       <div>
         This event will not only test your coding abilities but also your
@@ -597,7 +601,7 @@ const EventsData = [
   {
     id: "20",
     EventName: "A Day Of Solutions (Both)",
-    EventPoster: default_poster,
+    EventPoster: dayofsolution,
     EventBanner: default_banner,
     Description: (
       <div>
@@ -626,7 +630,7 @@ const EventsData = [
   {
     id: "21",
     EventName: "BridgeIT (Team)",
-    EventPoster: default_poster,
+    EventPoster: bridgeIT,
     EventBanner: default_banner,
     Description: (
       <div>
@@ -650,7 +654,7 @@ const EventsData = [
   {
     id: "22",
     EventName: "Tech Hunt",
-    EventPoster: default_poster,
+    EventPoster: treasurehunt,
     EventBanner: default_banner,
     Description: (
       <div>
