@@ -27,7 +27,7 @@
     display: flex;
     flex-direction: column;
     width: 250px;
-    height: 342px;
+    height: 260px;
     position: relative;
     overflow: hidden;
     box-shadow: 0px 5px 30px 10px rgba(0, 0, 0, 0.45);
@@ -57,23 +57,25 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
-    transform: scale(1.2);
+    transform: scale(1.0);
 }
 
 .event_info {
     position: absolute;
     width: 90%;
-    bottom: 0;
+    bottom: 0px;
     display: flex;
     flex-direction: column;
-    padding: 10px 13px;
+    padding: 2px 11px;
     gap: 5px;
     justify-content: space-between;
+    background-color: rgb(43, 122, 218);
+    border: 2px white solid;
 }
 
 .event_title {
-    font-size: 22px;
-    letter-spacing: 1px;
+    font-size: 18px;
+    letter-spacing: 0.8px;
     font-weight: 700;
     line-height: 27px;
 }
@@ -119,7 +121,7 @@
         flex-direction: column;
     }
 
-    
+
 
     .event_col {
         width: 100%;
@@ -149,6 +151,10 @@
         max-width: 30vw;
         padding: 10px;
         font-size: 12px;
+    }
+
+    .event_info {
+        padding: 2px 12px;
     }
 
 }
