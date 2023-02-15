@@ -8,6 +8,13 @@ import addcad from "../images/Event_poster/ADDCAD.png";
 import bridgeIT from "../images/Event_poster/BridgeIT.png";
 import dayofsolution from "../images/Event_poster/dayofsolution.png";
 import treasurehunt from "../images/Event_poster/treasurehunt.png";
+import pseudosearch from "../images/Event_poster/PSEUDO SEARCH.jpg";
+import legotech from "../images/Event_poster/legotech.png";
+import waterrocket from "../images/Event_poster/waterrocket.png";
+import rcracing from "../images/Event_poster/rcracing .png";
+import viitauction from "../images/Event_poster/viitauction.png";
+import codepad from "../images/Event_poster/Codepad.png";
+import tagteammania from "../images/Event_poster/tagteammania.png";
 const EventsData = [
   {
     id: "0",
@@ -39,7 +46,7 @@ const EventsData = [
   {
     id: "1",
     EventName: "Pseudo Search (Team)",
-    EventPoster: default_poster,
+    EventPoster: pseudosearch,
     EventBanner: default_banner,
     Description: (
       <div>
@@ -310,7 +317,7 @@ const EventsData = [
   {
     id: "10",
     EventName: "RC Racing Compt.(Team)",
-    EventPoster: default_poster,
+    EventPoster: rcracing,
     EventBanner: default_banner,
     Description: (
       <div>
@@ -334,7 +341,7 @@ const EventsData = [
   {
     id: "11",
     EventName: "VIIT Auction House (Team)",
-    EventPoster: default_poster,
+    EventPoster: viitauction,
     EventBanner: default_banner,
     Description: (
       <div>
@@ -363,7 +370,7 @@ const EventsData = [
   {
     id: "12",
     EventName: "Water Rocket (Team)",
-    EventPoster: default_poster,
+    EventPoster: waterrocket,
     EventBanner: default_banner,
     Description: (
       <div>
@@ -387,7 +394,7 @@ const EventsData = [
   {
     id: "13",
     EventName: "Code Pad (Individual)",
-    EventPoster: default_poster,
+    EventPoster: codepad,
     EventBanner: default_banner,
     Description: (
       <div>
@@ -416,7 +423,7 @@ const EventsData = [
   {
     id: "14",
     EventName: "The Tag Team Mania (Team)",
-    EventPoster: default_poster,
+    EventPoster: tagteammania,
     EventBanner: default_banner,
     Description: (
       <div>
@@ -540,7 +547,7 @@ const EventsData = [
   {
     id: "18",
     EventName: "LEGO TECH (Team)",
-    EventPoster: default_poster,
+    EventPoster: legotech,
     EventBanner: default_banner,
     Description: (
       <div>
