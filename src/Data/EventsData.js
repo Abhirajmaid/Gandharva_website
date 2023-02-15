@@ -15,6 +15,10 @@ import rcracing from "../images/Event_poster/rcracing .png";
 import viitauction from "../images/Event_poster/viitauction.png";
 import codepad from "../images/Event_poster/Codepad.png";
 import tagteammania from "../images/Event_poster/tagteammania.png";
+import interlock from "../images/Event_poster/ACM.png";
+import whatthehack from "../images/Event_poster/what_the_hack.jpeg";
+import warofwords from "../images/Event_poster/warofwords.jpeg";
+import thatstatsay from "../images/Event_poster/thatstatsay.jpeg";
 const EventsData = [
   {
     id: "0",
@@ -251,7 +255,7 @@ const EventsData = [
   {
     id: "8",
     EventName: "War of Words(Both)",
-    EventPoster: default_poster,
+    EventPoster: warofwords,
     EventBanner: default_banner,
     Description: (
       <div>
@@ -275,7 +279,7 @@ const EventsData = [
   {
     id: "9",
     EventName: "Interlock (Team)",
-    EventPoster: default_poster,
+    EventPoster: interlock,
     EventBanner: default_banner,
     Description: (
       <div>
@@ -576,7 +580,7 @@ const EventsData = [
   {
     id: "19",
     EventName: "The Stats Say…(Team)",
-    EventPoster: default_poster,
+    EventPoster: thatstatsay,
     EventBanner: default_banner,
     Description: (
       <div>
@@ -684,7 +688,7 @@ const EventsData = [
   {
     id: "23",
     EventName: "What The Hack (Workshop)",
-    EventPoster: default_poster,
+    EventPoster: whatthehack,
     EventBanner: default_banner,
     Description: <div>Cyber Workshop, Talk</div>,
     EventHost: "Jay Subhedar (+9198601 9204)",
