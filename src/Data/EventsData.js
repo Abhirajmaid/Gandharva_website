@@ -596,14 +596,16 @@ const EventsData = [
         tools such as figma/wordpress. Participating teams are expected to make
         use of attractive charts that best describe the growth of company. The
         evaluation will be done considering design factors and other criteria
-        such as readability of the content.{" "}
+        such as readability of the content.<br/><br/>
+        Requirements:<br/>
+        - Bring your own laptop.
       </div>
     ),
     EventHost:
       "Priyanshu Nikam (+919561451705) Swarangi Gulalkari (+917038370827)",
     Date: " 21-02-2023",
     DateWord: "Tue, Feb 21",
-    Time: "11:00 AM to 04:00 PM",
+    Time: "2:00PM Onwards",
     Location: "B201, B-Building, VIIT, Pune ",
     Dept: "CS",
     EntryFee: "80",
