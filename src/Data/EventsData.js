@@ -268,9 +268,9 @@ const EventsData = [
       </div>
     ),
     EventHost: "Parth Bhosale:(+919284833611) Priya Chougale (+919421102099)",
-    Date: "21-02-2023",
-    DateWord: "Mon, Feb 21",
-    Time: "",
+    Date: "20-02-2023",
+    DateWord: "Mon, Feb 20",
+    Time: "10:00am-14:00pm",
     Location: "B-001, B-Building, VIIT",
     Dept: "CS",
     EntryFee: "100",
@@ -305,14 +305,14 @@ const EventsData = [
         <br />
         Requirements:
         <br />
-        - Team of 3-4 members
+        - Team of 2-4 members
         <br />- Basic knowledge of aptitude and coding
       </div>
     ),
     EventHost: "Ayan Sayyad (+917058575810) Ansfred D'Souza (+918788944520)",
-    Date: "20-02-2023",
-    DateWord: "Mon, Feb 20",
-    Time: "",
+    Date: "21-02-2023",
+    DateWord: "Tue, Feb 21",
+    Time: "10am Onwards",
     Location: "B Building Labs, VIIT",
     Dept: "CS",
     EntryFee: "100",
@@ -596,9 +596,11 @@ const EventsData = [
         tools such as figma/wordpress. Participating teams are expected to make
         use of attractive charts that best describe the growth of company. The
         evaluation will be done considering design factors and other criteria
-        such as readability of the content.<br/><br/>
-        Requirements:<br/>
-        - Bring your own laptop.
+        such as readability of the content.
+        <br />
+        <br />
+        Requirements:
+        <br />- Bring your own laptop.
       </div>
     ),
     EventHost:
@@ -694,8 +696,8 @@ const EventsData = [
     EventBanner: default_banner,
     Description: <div>Cyber Workshop, Talk</div>,
     EventHost: "Jay Subhedar (+9198601 9204)",
-    Date: "21-02-2023",
-    DateWord: "Tue, Feb 21",
+    Date: "20-02-2023",
+    DateWord: "Mon, Feb 20",
     Time: "",
     Location: "B-104, Seminar hall",
     Dept: "CS",
