@@ -11,6 +11,9 @@ import sl from "../../../images/simplilearn.png"
 import cv from "../../../images/chaivilla.png"
 import ap from "../../../images/Asian panda.png"
 import ss from "../../../images/sonisandwich.png"
+import ks from "../../../images/khanna_stories.png"
+import bp from "../../../images/blosom_parlour.png"
+
 
 const Sponsors = () => {
   return (
@@ -91,6 +94,18 @@ const Sponsors = () => {
               <h4 className="spo_partner">Food Partner</h4>
               <div className="item">
                 <img src={ss} alt="" />
+              </div>
+            </div>
+            <div>
+              <h4 className="spo_partner">Food Partner</h4>
+              <div className="item">
+                <img src={ks} alt="" />
+              </div>
+            </div>
+            <div>
+              <h4 className="spo_partner">Beauty Partner</h4>
+              <div className="item">
+                <img src={bp} alt="" />
               </div>
             </div>
             <div className="item">
