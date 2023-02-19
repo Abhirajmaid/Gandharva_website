@@ -5,6 +5,15 @@ import webfudge from "../../../images/1.png";
 import sanspots from "../../../images/sanspots.png";
 import finserve from "../../../images/finserve.png";
 import tba from "../../../images/TO_BE_announced.png";
+import dsa from "../../../images/design skill academy.png"
+import evolve from "../../../images/evolve.png"
+import sl from "../../../images/simplilearn.png"
+import cv from "../../../images/chaivilla.png"
+import ap from "../../../images/Asian panda.png"
+import ss from "../../../images/sonisandwich.png"
+import ks from "../../../images/khanna_stories.png"
+import bp from "../../../images/blosom_parlour.png"
+
 
 const Sponsors = () => {
   return (
@@ -49,6 +58,54 @@ const Sponsors = () => {
               <h4 className="spo_partner">Fin-Tech Partner</h4>
               <div className="item">
                 <img src={finserve} alt="" />
+              </div>
+            </div>
+            <div>
+              <h4 className="spo_partner">Ed-Tech Partner</h4>
+              <div className="item">
+                <img src={dsa} alt="" />
+              </div>
+            </div>
+            <div>
+              <h4 className="spo_partner">Ed-Tech Partner</h4>
+              <div className="item">
+                <img src={sl} alt="" />
+              </div>
+            </div>
+            <div>
+              <h4 className="spo_partner">Gaming Partner</h4>
+              <div className="item">
+                <img src={evolve} alt="" />
+              </div>
+            </div>
+            <div>
+              <h4 className="spo_partner">Food Partner</h4>
+              <div className="item">
+                <img src={cv} alt="" />
+              </div>
+            </div>
+            <div>
+              <h4 className="spo_partner">Food Partner</h4>
+              <div className="item">
+                <img src={ap} alt="" />
+              </div>
+            </div>
+            <div>
+              <h4 className="spo_partner">Food Partner</h4>
+              <div className="item">
+                <img src={ss} alt="" />
+              </div>
+            </div>
+            <div>
+              <h4 className="spo_partner">Food Partner</h4>
+              <div className="item">
+                <img src={ks} alt="" />
+              </div>
+            </div>
+            <div>
+              <h4 className="spo_partner">Beauty Partner</h4>
+              <div className="item">
+                <img src={bp} alt="" />
               </div>
             </div>
             <div className="item">

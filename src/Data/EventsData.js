@@ -15,7 +15,7 @@ import rcracing from "../images/Event_poster/rcracing .png";
 import viitauction from "../images/Event_poster/viitauction.png";
 import codepad from "../images/Event_poster/Codepad.png";
 import tagteammania from "../images/Event_poster/tagteammania.png";
-import interlock from "../images/Event_poster/ACM.png";
+import interlock from "../images/Event_poster/ACM.jpeg";
 import whatthehack from "../images/Event_poster/what_the_hack.jpeg";
 import warofwords from "../images/Event_poster/warofwords.jpeg";
 import thatstatsay from "../images/Event_poster/thatstatsay.jpeg";
