@@ -691,15 +691,29 @@ const EventsData = [
 
   {
     id: "23",
-    EventName: "What The Hack (Workshop)",
+    EventName: "What The Hack",
     EventPoster: whatthehack,
     EventBanner: default_banner,
-    Description: <div>Cyber Workshop, Talk</div>,
+    Description: (
+      <div>
+        A workshop on Cybersecurity and Linux followed by a quiz based on
+        cybersecurity as well as coding fundamentals. The quiz will serve as the
+        first round for qualification which will be further followed by a
+        traditional coding contest on Hackerrank and a Tag team coding contest
+        as the last and final round. Registrations for the above will be in
+        teams of two (both team members have to register). <br />
+        *Individual participation is allowed up till the final round where a
+        teammate will be assigned to you. <br />
+        Flow: 1 Hour Workshop <br /> Round 1: Quiz (Duo or Individual) <br />
+        Round 2: Traditional Coding Contest (Duo or Individual)
+        <br /> Final Round: Tag Team Coding Contest (Duo Only)
+      </div>
+    ),
     EventHost: "Jay Subhedar (+9198601 9204)",
     Date: "20-02-2023",
     DateWord: "Mon, Feb 20",
-    Time: "",
-    Location: "B-104, Seminar hall",
+    Time: "13:00  Workshop 14:00-18:00 Quiz and Coding Rounds",
+    Location: "B-101",
     Dept: "CS",
     EntryFee: "50",
   },
