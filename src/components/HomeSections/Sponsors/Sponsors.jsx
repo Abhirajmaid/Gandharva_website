@@ -5,15 +5,14 @@ import webfudge from "../../../images/1.png";
 import sanspots from "../../../images/sanspots.png";
 import finserve from "../../../images/finserve.png";
 import tba from "../../../images/TO_BE_announced.png";
-import dsa from "../../../images/design skill academy.png"
-import evolve from "../../../images/evolve.png"
-import sl from "../../../images/simplilearn.png"
-import cv from "../../../images/chaivilla.png"
-import ap from "../../../images/Asian panda.png"
-import ss from "../../../images/sonisandwich.png"
-import ks from "../../../images/khanna_stories.png"
-import bp from "../../../images/blosom_parlour.png"
-
+import dsa from "../../../images/design skill academy.png";
+import evolve from "../../../images/evolve.png";
+import sl from "../../../images/simplilearn.png";
+import cv from "../../../images/chaivilla.png";
+import ap from "../../../images/Asian panda.png";
+import ss from "../../../images/sonisandwich.png";
+import ks from "../../../images/khanna_stories.png";
+import bp from "../../../images/blosom_parlour.png";
 
 const Sponsors = () => {
   return (
@@ -37,14 +36,14 @@ const Sponsors = () => {
                 </div>
               </div>
             </div>
-            <div className="spo_present">
+            {/* <div className="spo_present">
               <h2>Presented by</h2>
               <div className="items">
-                <div className="item">
-                  <img src={tba} alt="" />
+              <div className="item">
+              <img src={tba} alt="" />
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
           <h3>Our Partners</h3>
           <div className="items">
@@ -108,9 +107,9 @@ const Sponsors = () => {
                 <img src={bp} alt="" />
               </div>
             </div>
-            <div className="item">
+            {/* <div className="item">
               <img src={tba} alt="" />
-            </div>
+            </div> */}
           </div>
         </div>
         {/* <div className="sSec">

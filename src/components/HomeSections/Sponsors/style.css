@@ -64,6 +64,7 @@
 .imp_spo {
     display: flex;
     width: 100%;
+    justify-content: center;
     /* background-color: rgb(255, 145, 0); */
 }
 
@@ -170,11 +171,12 @@
     .sSec h3::after {
         height: 7px;
     }
-    .spo_partner{
+
+    .spo_partner {
         font-size: 12px;
     }
 
-    .imp_spo h2{
+    .imp_spo h2 {
         font-size: 12px;
     }
 }
